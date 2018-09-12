@@ -9,7 +9,6 @@ menu: true
 order: 2
 ---
 
-### Education
 * Master of Science(M.S.) in Computer Science and Engineering, Department of Computer Science and Engineering, University of Dhaka.
 * Bachelor of Science(B.Sc.) in Computer Science & Engineering, Department of Computer Science and Engineering, University of Dhaka.
 * Higher Secondary School Certificate (XIth and XIIth) from Dania University College, Dhaka.
