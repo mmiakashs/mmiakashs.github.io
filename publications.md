@@ -5,7 +5,7 @@ description: >
   Publications of Md Mofijul Islam.
 hide_description: true
 menu: true
-order: 3
+order: 4
 ---
 <a href="https://scholar.google.com/citations?user=SubC4TsAAAAJ" target="_blank">Google Scholar Profile</a>
 
@@ -15,11 +15,14 @@ order: 3
 * Md. Mofijul Islam, Md. Ahasanuzzaman, Md. Abdur Razzaque, M. M. Hassan, Abdulhameed Alelaiwi, Yang Xian, [Target coverage through distributed clustering in directional sensor networks.](http://link.springer.com/article/10.1186/s13638-015-0394-2) EURASIP J. Wireless Communications and Networking. 167: (2015).
 
 ## Conference Publication(Peer Reviewed):
-* Md.Tanvir Alam, Md. Mofijul Islam, “BARD: Bangla Article Classification using a New Comprehensive Dataset.” Accepted in ICBSLP-2018.
+* Md.Tanvir Alam, Md. Mofijul Islam, “BARD: Bangla Article Classification using a New Comprehensive Dataset.” Accepted in ICBSLP-2018. [Dataset and Source code](https://github.com/tanvirfahim15/BARD-Bangla-Article-Classifier), [Application](http://bard2018.pythonanywhere.com), [Video Demo](https://www.youtube.com/watch?v=vxwSlwaJ5o4)
 * Md. Mofijul Islam, Sk. Shariful Islam Arafat, Md Shakil Hossain, Md Mahmudur Rahman, S M Al-Hossain Imam, Md. Mahmudul Hasan, Swakkhar Shatabda, Tamanna Islam Juthi, "RAiTA: Recommending Accepted Answer using Textual Metadata", accepted in Springer IEMIS-2017.
 * Md Shakil Hossain, Sk. Shariful Islam Arafat, S M Al-Hossain Imam, Md. Mahmudul Hasan, Md. Mofijul Islam, Sanjay Saha, Swakkhar Shatabda, Tamanna Islam Juthi,"VIM: A Big Data Analytics Tool for Data Visualization and Knowledge Mining", IEEE WIECON-ECE-2017.
 * Md. Mofijul Islam, Md. Abdur Razzaque, and Md. Jahidul Islam, [A Genetic Algorithm for Virtual Machine Migration in Heterogeneous Mobile Cloud Computing](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7400696), in Proceedings of the 2nd International Conference on Networking Systems and Security (NSysS-2016), IEEE-BUET, Dhaka, Bangladesh.
 * Md. Mofijul Islam, Md. Ahasanuzzaman, Md. Abdur Razzaque, Mohammad Mehedi Hassan, Atif Alamri, [A Distributed Clustering Algorithm for Target Coverage in Directional Sensor Network](http://ieeexplore.ieee.org/document/6920259/), in Proceedings of IEEE Asia Pacific Conference on Wireless and Mobile, Bali, Indonesia(2014).
 
-### Manuscript in Preparation:
+### Under Review / Manuscript in Preparation:
+* Amor Deb Nath, Redoan Rahman, Md. Mofijul Islam,”A Transfer Learning Appraoch for Extracting Facts to Valididate the Statement”.
+* Md.Tanvir Alam, Md. Mofijul Islam, “LEARN$$^2$$: An Interactive Guru Assisting to Learn Learning Algorithms”.
+* Md. Mofijul Islam, Amor Deb Nath, Tahsin Al Sayeed, Sadman Sakib, Jyotirmoy Nag,”d-DeVIS: A Gray Box Visual Debugging Approach for DeepSequence Learning Model”.
 * Md. Mofijul Islam, Sk. Shariful Islam Arafat, Md Shakil Hossain, S M Al-Hossain Imam, Md. Mahmudul Hasan, "PRISM: Personalized Questions Recommender System for the Expert User".

@@ -9,7 +9,7 @@ menu: 1
 ---
 I am Md. Mofijul Islam, currently working as a Lecturer at the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/). I completed M.S. and B.Sc(Hons) in Computer Science and Engineering from the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/).
 
-My research interest broadly lies at the intersection of theoretical and practical machine learning to solve real world problems. Specifically, I am interested in working on research problems which are related to machine learning, optimization approaches, recommendation systems, natural language processing, social network analysis and interpretable machine learning. I also worked with optimization techniques to solve resource constrained problems in cloud computing.
+My research interest broadly lies at the intersection of theoretical and practical machine learning to solve real world problems. Specifically, I am interested in working on research problems which are related to machine learning, transfer learning, optimization, graphical probabilistic models, natural language processing, social network analysis and interpretable machine learning. I am also working with optimization approaches to improve the computational learning process and solve resource constrained problems in cloud computing.
 
 During my free time, I love to write code with background music and participate in hackathons, programming and software contests. I also like to travel new places.
 

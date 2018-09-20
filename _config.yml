@@ -26,8 +26,8 @@ title:                 Md Mofijul Islam
 description:           >
 
 # A shorter description for the sidebar.
-tagline:               >
-  University of Dhaka
+#tagline:               >
+#  University of Dhaka
 
 # A list of keywords for your blog.
 keywords:              []
@@ -60,7 +60,7 @@ permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              5
-paginate_path:         /page-:num/
+paginate_path:         /blog/page-:num/
 
 
 # Customizaton
@@ -116,7 +116,7 @@ defaults:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-# disqus:                <disqus_shortname>
+disqus:                mmiakashs
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!

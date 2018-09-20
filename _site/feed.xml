@@ -1,1 +1,196 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-09-13T00:30:31+06:00</updated><id>http://localhost:4000/</id><title type="html">Md Mofijul Islam</title><subtitle></subtitle><author><name>Md Mofijul Islam Akash</name><email>akash@.cse.du.ac.bd, akash.cse.du@gmail.com</email></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-09-20T23:08:28+06:00</updated><id>http://localhost:4000/</id><title type="html">Md Mofijul Islam</title><subtitle></subtitle><author><name>Md Mofijul Islam Akash</name><email>akash@.cse.du.ac.bd, akash.cse.du@gmail.com</email></author><entry><title type="html">Introduction to Kaggle API in Google Colab (Part-I)</title><link href="http://localhost:4000/blog/2018-09-20-kaggle-api-google-colab/" rel="alternate" type="text/html" title="Introduction to Kaggle API in Google Colab (Part-I)" /><published>2018-09-20T00:00:00+06:00</published><updated>2018-09-20T00:00:00+06:00</updated><id>http://localhost:4000/blog/kaggle-api-google-colab</id><content type="html" xml:base="http://localhost:4000/blog/2018-09-20-kaggle-api-google-colab/">&lt;p&gt;In this introductory article helps to prepare the google colab to use the kaggle api. Then we will cover a couple of usages of kaggle-api. Let’s begin…&lt;/p&gt;
+
+&lt;p&gt;At first create a jupyter notebook in the google colab and change the runtime to python3. After that follow the following simple steps to prepare the google colab to use Kaggle-API.&lt;/p&gt;
+
+&lt;h2 id=&quot;prepare-google-colab-for-kaggle-api&quot;&gt;Prepare Google Colab for Kaggle-API&lt;/h2&gt;
+
+&lt;p&gt;Install the Kaggle library in google colab instance.&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;!pip3 install kaggle
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;kaggele-api-authentication&quot;&gt;Kaggele API Authentication&lt;/h2&gt;
+
+&lt;p&gt;We need to enable kaggle api authentication and the auth token file to interact with the kaggle api system. Follow the following steps to get the authentication:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Create an account or login in &lt;a href=&quot;https://www.kaggle.com&quot;&gt;kaggle.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;After that go to My Account and click &lt;strong&gt;Create New API Token&lt;/strong&gt;, which will download kaggle.json&lt;/li&gt;
+  &lt;li&gt;Upload the kaggle.json file into any folder of google drive&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;google-drive-authentication&quot;&gt;Google drive authentication&lt;/h2&gt;
+&lt;p&gt;In this step, we will retrive the google drive authentication to use drive files(in this case to retrive the kaggle.json file, which we upload in the previous steps). Open the authentication link, which you will get in the ouput, after executing the following code cell. Then copy the authentication code into the code cell output’s input box and complete the authentication process.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;from googleapiclient.discovery import build
+import io, os
+from googleapiclient.http import MediaIoBaseDownload
+from google.colab import auth
+
+auth.authenticate_user()
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Search the kaggle.json file from google drive and copied into &lt;code class=&quot;highlighter-rouge&quot;&gt;~/.kaggle/kaggle.json&lt;/code&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;drive_service = build('drive', 'v3')
+results = drive_service.files().list(
+        q=&quot;name = 'kaggle.json'&quot;, fields=&quot;files(id)&quot;).execute()
+kaggle_api_key = results.get('files', [])
+
+filename = &quot;/content/.kaggle/kaggle.json&quot;
+os.makedirs(os.path.dirname(filename), exist_ok=True)
+
+request = drive_service.files().get_media(fileId=kaggle_api_key[0]['id'])
+fh = io.FileIO(filename, 'wb')
+downloader = MediaIoBaseDownload(fh, request)
+done = False
+while done is False:
+    status, done = downloader.next_chunk()
+    print(&quot;Download %d%%.&quot; % int(status.progress() * 100))
+os.chmod(filename, 600)
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;In the google colab the kaggle.json file need to stored in the ~/kaggle directory. That’s why we need to copy the kaggle.json file into ~/.kaggle directory&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;!mkdir ~/.kaggle
+!cp /content/.kaggle/kaggle.json ~/.kaggle/kaggle.json
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Execute the following command to verify whether the kaggle.json is stored in the appropriate location: &lt;strong&gt;~/.kaggle/kaggle.json&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ls ~/.kaggle
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;If the output of this command shows the kaggle.json file then we are ready to use the kaggle-cli API. The details of kaggle-cli is given &lt;a href=&quot;https://github.com/floydwch/kaggle-cli&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-usage-of-kaggle-cli&quot;&gt;Sample usage of kaggle-cli&lt;/h2&gt;
+
+&lt;h3 id=&quot;list-kaggle-competitions&quot;&gt;List Kaggle Competitions&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;!kaggle competitions list
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ref                                              deadline             category            reward  teamCount  userHasEntered
+-----------------------------------------------  -------------------  ---------------  ---------  ---------  --------------
+digit-recognizer                                 2030-01-01 00:00:00  Getting Started  Knowledge       2492           False
+titanic                                          2030-01-01 00:00:00  Getting Started  Knowledge       9736           False
+house-prices-advanced-regression-techniques      2030-01-01 00:00:00  Getting Started  Knowledge       4169           False
+imagenet-object-localization-challenge           2029-12-31 07:00:00  Research         Knowledge         25           False
+competitive-data-science-predict-future-sales    2019-01-01 23:59:00  Playground           Kudos       1440           False
+ga-customer-revenue-prediction                   2018-11-15 23:59:00  Featured           $45,000        792            True
+inclusive-images-challenge                       2018-11-05 23:59:00  Research           $25,000        264           False
+rsna-pneumonia-detection-challenge               2018-10-24 23:59:00  Featured           $30,000        877            True
+tgs-salt-identification-challenge                2018-10-19 23:59:00  Featured          $100,000       2647            True
+airbus-ship-detection                            2018-10-04 23:59:00  Featured           $60,000        835           False
+new-york-city-taxi-fare-prediction               2018-09-25 23:59:00  Playground       Knowledge       1075           False
+forest-cover-type-kernels-only                   2018-09-24 23:59:00  Playground       Knowledge        335           False
+demand-forecasting-kernels-only                  2018-09-24 23:59:00  Playground       Knowledge        427           False
+whats-cooking-kernels-only                       2018-09-24 23:59:00  Playground       Knowledge        492           False
+flavours-of-physics-kernels-only                 2018-09-24 23:59:00  Playground       Knowledge         56           False
+movie-review-sentiment-analysis-kernels-only     2018-09-24 23:59:00  Playground       Knowledge        377           False
+costa-rican-household-poverty-prediction         2018-09-19 23:59:00  Playground            Swag        619           False
+google-ai-open-images-object-detection-track     2018-08-30 23:59:00  Featured           $30,000        454           False
+google-ai-open-images-visual-relationship-track  2018-08-30 23:59:00  Featured           $20,000        232           False
+home-credit-default-risk                         2018-08-29 23:59:00  Featured           $70,000       7198           False
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;list-files-in-a-kaggle-competition&quot;&gt;List Files in a Kaggle Competition&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# -c: competition name
+!kaggle competitions files -c planet-understanding-the-amazon-from-space
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;name                              size  creationDate
+-------------------------------  -----  -------------------
+train-jpg.tar.7z                 600MB  2017-04-20 00:13:50
+test-jpg.tar.7z                  603MB  2017-04-20 00:15:13
+train-tif-v2.tar.7z               13GB  2017-05-06 06:13:24
+test-tif-v2.tar.7z                19GB  2017-05-06 06:27:29
+test-jpg-additional.tar.7z       304MB  2017-05-06 06:49:41
+Kaggle-planet-test-tif.torrent     2MB  2017-05-06 06:54:37
+Kaggle-planet-train-tif.torrent    1MB  2017-05-06 06:54:55
+sample_submission_v2.csv.zip     154KB  2017-05-09 03:01:24
+train_v2.csv.zip                 159KB  2017-05-09 03:01:24
+test_v2_file_mapping.csv.zip     110KB  2017-06-08 00:26:28
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;show-the-leaderboard-of-kaggle-cometitions&quot;&gt;Show the leaderboard of kaggle cometitions&lt;/h4&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;!kaggle competitions leaderboard planet-understanding-the-amazon-from-space -s
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;teamId  teamName                         submissionDate       score
+------  -------------------------------  -------------------  -------
+764901  SYSU CISLab                      2017-07-20 23:32:25  0.93448
+776206  Russian Bears                    2017-07-20 23:34:32  0.93448
+623630  Urucu                            2017-07-20 23:41:07  0.93443
+623281  Plant                            2017-07-20 19:19:22  0.93431
+647582  Team samogon                     2017-07-20 08:47:56  0.93422
+744470  Clear Sky                        2017-07-20 19:51:39  0.93419
+626431  Kyle                             2017-07-20 15:26:36  0.93412
+741719  ods.ai                           2017-07-20 23:46:33  0.93408
+624465  bestfitting                      2017-07-20 23:48:39  0.93398
+623172  deepsense.io                     2017-07-20 13:22:36  0.93392
+624135  Moss                             2017-07-20 23:22:18  0.93386
+757613  Daniel FG                        2017-07-20 23:56:03  0.93381
+654347  🌴team-amazon-forest🌴             2017-07-20 08:21:17  0.93353
+728947  CVFakers                         2017-07-20 23:05:50  0.93351
+623222  dhammack                         2017-07-20 21:52:14  0.93349
+783137  Eduardo Franco                   2017-07-20 19:42:02  0.93342
+625451  YunYang                          2017-07-17 11:47:49  0.93342
+...
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;download-kaggle-competition-leaderboard&quot;&gt;Download Kaggle Competition Leaderboard&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;!kaggle competitions leaderboard planet-understanding-the-amazon-from-space -d
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;download-data-from-kaggle-competitions&quot;&gt;Download Data from Kaggle Competitions&lt;/h3&gt;
+
+&lt;p&gt;In this article, we will download data from &lt;a href=&quot;https://www.kaggle.com/c/planet-understanding-the-amazon-from-space&quot;&gt;Planet: Understanding the Amazon from Space&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Please note that  to download data from any kaggle cometition, you must accept the terms and condition of that kaggle competitions.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;!mkdir ~/data
+!cd ~/data
+!mkdir planet
+!cd planet
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# -c: competition name
+# -f: which file you want to download
+# -p: path to where the file should be saved
+!kaggle competitions download -c planet-understanding-the-amazon-from-space -f train-jpg.tar.7z -p ~/data/planet/
+!kaggle competitions download -c planet-understanding-the-amazon-from-space -f test-jpg.tar.7z -p ~/data/planet/
+!kaggle competitions download -c planet-understanding-the-amazon-from-space -f train_v2.csv.zip -p ~/data/planet/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;extract-the-datafiles&quot;&gt;Extract the datafiles&lt;/h4&gt;
+
+&lt;p&gt;Install 7zip to extract the datafiles&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;!apt-get install p7zip-full
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Unzip the 7zip files
+# -d: which file to un7zip
+!p7zip -d ~/data/planet/test-jpg.tar.7z
+!p7zip -d ~/data/planet/train-jpg.tar.7z
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Unzip the .tar files
+!tabr -xvf ~/data/planet/test-jpg.tar
+!tar -xvf ~/data/planet/train-jpg.tar
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;!unzip ~/data/planet/train_v2.csv.zip -d ~/data/planet/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ls
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;adc.json  planet/  sample_data/  test-jpg.tar  train-jpg.tar
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;In the first part of the kaggle API tutorial we cover basic usage of this API. In the next part we will cover the advance usages of kaggle API, such as submit solution to a kaggle competition. Till then you can see the documentation of [kaggle-cli](The details of kaggle-cli is given &lt;a href=&quot;https://github.com/floydwch/kaggle-cli&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I write this tutorial by following an introductory section on kaggle api of Cory Kendrick &lt;a href=&quot;https://github.com/corykendrick/fastai_in_colab&quot;&gt;fastai course notebook&lt;/a&gt;, so a big thanks to &lt;a href=&quot;https://github.com/corykendrick&quot;&gt;Cory  Kendrick&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;if-you-have-any-comments-or-feedback-regarding-this-articles-or-my-writings-please-dont-hesitate-to-share-if-you-like-this-article-then-dont-forget-to-share-with-your-friends&quot;&gt;If you have any comments or feedback regarding this articles or my writings, please don’t hesitate to share. If you like this article then don’t forget to share with your friends.&lt;/h3&gt;</content><author><name>Md Mofijul Islam Akash</name><email>akash@.cse.du.ac.bd, akash.cse.du@gmail.com</email></author><summary type="html">In this introductory article helps to prepare the google colab to use the kaggle api. Then we will cover a couple of usages of kaggle-api. Let’s begin…</summary></entry></feed>
