@@ -4,7 +4,7 @@ title: Introduction to Kaggle API in Google Colab (Part-I)
 comments: true
 ---
 
-In this introductory article helps to prepare the google colab to use the kaggle api. Then we will cover a couple of usages of kaggle-api. Let's begin...
+This introductory article helps to prepare the google colab to use the kaggle api. Then we will cover a couple of usages of kaggle-api. Let's begin...
 
 At first create a jupyter notebook in the google colab and change the runtime to python3. After that follow the following simple steps to prepare the google colab to use Kaggle-API.
 
