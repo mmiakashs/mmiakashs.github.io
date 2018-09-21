@@ -10,7 +10,7 @@ order: 4
 <a href="https://scholar.google.com/citations?user=SubC4TsAAAAJ" target="_blank">Google Scholar Profile</a>
 
 ## Journal Publication(Peer Reviewed):
-* Md Mofijul Islam, Sanjay Saha, Md Mahmudur Rahman, Swakkhar Shatabda, Dewan Md Farid, Abdollah Dehzangi, [**"iProtGly-SS: IdentifyingProtein Lysine Glycation Sites Using Sequence and Structure Based Features"**](https://www.ncbi.nlm.nih.gov/pubmed/29675975). Accepted in Proteins Journal-2018. [Source Code, Data, Web Application](http://brl.uiu.ac.bd/iprotgly-ss/)
+* Md Mofijul Islam, Sanjay Saha, Md Mahmudur Rahman, Swakkhar Shatabda, Dewan Md Farid, Abdollah Dehzangi, [**"iProtGly-SS: Identifying Protein Lysine Glycation Sites Using Sequence and Structure Based Features"**](https://www.ncbi.nlm.nih.gov/pubmed/29675975). Accepted in Proteins Journal-2018. [Source Code, Data, Web Application](http://brl.uiu.ac.bd/iprotgly-ss/)
 * Md. Mofijul Islam, Md. Abdur Razzaque, Mohammad Mehedi Hassan, Walaa Nagy, Biao Song, ["Mobile Cloud-Based Big Healthcare Data Processing in Smart Cities."](http://ieeexplore.ieee.org/document/7933943/) Accepted in IEEE Access Journal 2017.
 * Md. Mofijul Islam, Md. Ahasanuzzaman, Md. Abdur Razzaque, M. M. Hassan, Abdulhameed Alelaiwi, Yang Xian, [Target coverage through distributed clustering in directional sensor networks.](http://link.springer.com/article/10.1186/s13638-015-0394-2) EURASIP J. Wireless Communications and Networking. 167: (2015).
 
