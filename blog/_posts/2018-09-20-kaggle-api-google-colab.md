@@ -4,9 +4,9 @@ title: Introduction to Kaggle API in Google Colab (Part-I)
 comments: true
 ---
 
-This introductory article helps to prepare the google colab to use the kaggle api. Moreover, we will cover a couple of usages of kaggle-api. Let's begin...
+This introductory article helps to prepare the google colab to use the kaggle api. Moreover, we will cover a couple of usages of kaggle-api, most importantly import data from kaggle. So let's begin...
 
-At first create a jupyter notebook in the google colab and change the runtime to python3. After that follow the following simple steps to prepare the google colab to use Kaggle-API.
+At first, create a jupyter notebook in the google colab and change the runtime to python3. After that follow the following simple steps to prepare the google colab to use Kaggle-API.
 
 ## Prepare Google Colab for Kaggle-API
 
@@ -26,11 +26,11 @@ We need to enable kaggle api authentication and the auth token file to interact 
 
 
 ## Google drive authentication
-In this step, we will retrive the google drive authentication to use drive files(in this case to retrive the kaggle.json file, which we upload in the previous steps). Open the authentication link, which you will get in the ouput, after executing the following code cell. Then copy the authentication code into the code cell output's input box and complete the authentication process.
+In this step, we will retrieve the google drive authentication to use drive files(in this tutorial we will need this authentication to retrieve the kaggle.json file, which we uploaded in the previous steps). Open the authentication link, which you will get in the output, after executing the following code cell. Then copy the authentication code into the cell output's input box and complete the authentication process.
 
 
 ```
-from googleapiclient.discovery import build
+from googleapiclient.discovery import builds
 import io, os
 from googleapiclient.http import MediaIoBaseDownload
 from google.colab import auth
@@ -60,7 +60,7 @@ while done is False:
 os.chmod(filename, 600)
 
 ```
-In the google colab the kaggle.json file need to stored in the ~/kaggle directory. That's why we need to copy the kaggle.json file into ~/.kaggle directory
+In the google colab, the kaggle.json file needs to stored in the ~/kaggle directory. That's why we need to copy the kaggle.json file into ~/.kaggle directory
 ```
 !mkdir ~/.kaggle
 !cp /content/.kaggle/kaggle.json ~/.kaggle/kaggle.json
@@ -72,11 +72,11 @@ Execute the following command to verify whether the kaggle.json is stored in the
 ```
 ls ~/.kaggle
 ```
-If the output of this command shows the kaggle.json file then we are ready to use the kaggle-cli API. The details of kaggle-cli is given [here](https://github.com/floydwch/kaggle-cli)
+If the output of this command shows the kaggle.json file then we are ready to use the kaggle-cli API. The details of kaggle-cli are given [here](https://github.com/floydwch/kaggle-cli)
 
-## Sample usage of kaggle-cli
+## Sample usages of kaggle-cli
 
-### List Kaggle Competitions
+### Retrieve Kaggle Competitions List
 
 
 ```
@@ -107,7 +107,7 @@ If the output of this command shows the kaggle.json file then we are ready to us
     home-credit-default-risk                         2018-08-29 23:59:00  Featured           $70,000       7198           False
 
 
-### List Files in a Kaggle Competition
+### List Data Files in a Kaggle Competition
 
 
 ```
@@ -129,7 +129,7 @@ If the output of this command shows the kaggle.json file then we are ready to us
     test_v2_file_mapping.csv.zip     110KB  2017-06-08 00:26:28
 
 
-#### Show the leaderboard of kaggle cometitions
+#### Show the leaderboard of a kaggle competitions
 
 
 ```
@@ -166,11 +166,11 @@ If the output of this command shows the kaggle.json file then we are ready to us
 ```
 
 
-### Download Data from Kaggle Competitions
+### Download Dataset from Kaggle Competitions
 
 In this article, we will download data from [Planet: Understanding the Amazon from Space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)
 
-Please note that  to download data from any kaggle cometition, you must accept the terms and condition of that kaggle competitions.
+Please note that you must accept the terms and condition of that kaggle competitions to download data from any kaggle competition.
 
 
 ```
@@ -222,8 +222,8 @@ ls
     adc.json  planet/  sample_data/  test-jpg.tar  train-jpg.tar
 
 
-In the first part of the kaggle API tutorial we cover basic usage of this API. In the next part we will cover the advance usages of kaggle API, such as submit solution to a kaggle competition. Till then you can see the documentation of [kaggle-cli](The details of kaggle-cli is given [here](https://github.com/floydwch/kaggle-cli).
+In the first part of this kaggle API tutorial, we covered the basic usage of this API. In the next part, we will cover the advanced usages of kaggle API, such as submit a solution to a kaggle competition. Till then you can see the documentation of [kaggle-cli](The details of kaggle-cli is given [here](https://github.com/floydwch/kaggle-cli) and try the different usage of kaggle-cli.
 
-I write this tutorial by following an introductory section on kaggle api of Cory Kendrick [fastai course notebook](https://github.com/corykendrick/fastai_in_colab), so a big thanks to [Cory  Kendrick](https://github.com/corykendrick).
+I write this tutorial by following a tutorial of Cory Kendrick on [fastai course notebook](https://github.com/corykendrick/fastai_in_colab), so a big thanks to [Cory  Kendrick](https://github.com/corykendrick).
 
-### If you have any comments or feedback regarding this articles or my writings, please don't hesitate to share. If you like this article then don't forget to share with your friends.
+### If you have any comments or feedback regarding this articles or my writings, please don't hesitate to share with me.

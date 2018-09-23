@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-09-21T22:09:58+06:00</updated><id>http://localhost:4000/</id><title type="html">Md Mofijul Islam</title><subtitle></subtitle><author><name>Md Mofijul Islam Akash</name><email>akash@.cse.du.ac.bd, akash.cse.du@gmail.com</email></author><entry><title type="html">Introduction to Kaggle API in Google Colab (Part-I)</title><link href="http://localhost:4000/blog/2018-09-20-kaggle-api-google-colab/" rel="alternate" type="text/html" title="Introduction to Kaggle API in Google Colab (Part-I)" /><published>2018-09-20T00:00:00+06:00</published><updated>2018-09-20T00:00:00+06:00</updated><id>http://localhost:4000/blog/kaggle-api-google-colab</id><content type="html" xml:base="http://localhost:4000/blog/2018-09-20-kaggle-api-google-colab/">&lt;p&gt;This introductory article helps to prepare the google colab to use the kaggle api. Moreover, we will cover a couple of usages of kaggle-api. Let’s begin…&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-09-23T23:06:47+06:00</updated><id>http://localhost:4000/</id><title type="html">Md Mofijul Islam</title><subtitle></subtitle><author><name>Md Mofijul Islam Akash</name><email>akash@.cse.du.ac.bd, akash.cse.du@gmail.com</email></author><entry><title type="html">Introduction to Kaggle API in Google Colab (Part-I)</title><link href="http://localhost:4000/blog/2018-09-20-kaggle-api-google-colab/" rel="alternate" type="text/html" title="Introduction to Kaggle API in Google Colab (Part-I)" /><published>2018-09-20T00:00:00+06:00</published><updated>2018-09-20T00:00:00+06:00</updated><id>http://localhost:4000/blog/kaggle-api-google-colab</id><content type="html" xml:base="http://localhost:4000/blog/2018-09-20-kaggle-api-google-colab/">&lt;p&gt;This introductory article helps to prepare the google colab to use the kaggle api. Moreover, we will cover a couple of usages of kaggle-api, most importantly import data from kaggle. So let’s begin…&lt;/p&gt;
 
-&lt;p&gt;At first create a jupyter notebook in the google colab and change the runtime to python3. After that follow the following simple steps to prepare the google colab to use Kaggle-API.&lt;/p&gt;
+&lt;p&gt;At first, create a jupyter notebook in the google colab and change the runtime to python3. After that follow the following simple steps to prepare the google colab to use Kaggle-API.&lt;/p&gt;
 
 &lt;h2 id=&quot;prepare-google-colab-for-kaggle-api&quot;&gt;Prepare Google Colab for Kaggle-API&lt;/h2&gt;
 
@@ -19,9 +19,9 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;google-drive-authentication&quot;&gt;Google drive authentication&lt;/h2&gt;
-&lt;p&gt;In this step, we will retrive the google drive authentication to use drive files(in this case to retrive the kaggle.json file, which we upload in the previous steps). Open the authentication link, which you will get in the ouput, after executing the following code cell. Then copy the authentication code into the code cell output’s input box and complete the authentication process.&lt;/p&gt;
+&lt;p&gt;In this step, we will retrieve the google drive authentication to use drive files(in this tutorial we will need this authentication to retrieve the kaggle.json file, which we uploaded in the previous steps). Open the authentication link, which you will get in the output, after executing the following code cell. Then copy the authentication code into the cell output’s input box and complete the authentication process.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;from googleapiclient.discovery import build
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;from googleapiclient.discovery import builds
 import io, os
 from googleapiclient.http import MediaIoBaseDownload
 from google.colab import auth
@@ -49,7 +49,7 @@ while done is False:
 os.chmod(filename, 600)
 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;In the google colab the kaggle.json file need to stored in the ~/kaggle directory. That’s why we need to copy the kaggle.json file into ~/.kaggle directory&lt;/p&gt;
+&lt;p&gt;In the google colab, the kaggle.json file needs to stored in the ~/kaggle directory. That’s why we need to copy the kaggle.json file into ~/.kaggle directory&lt;/p&gt;
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;!mkdir ~/.kaggle
 !cp /content/.kaggle/kaggle.json ~/.kaggle/kaggle.json
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -58,11 +58,11 @@ os.chmod(filename, 600)
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ls ~/.kaggle
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;If the output of this command shows the kaggle.json file then we are ready to use the kaggle-cli API. The details of kaggle-cli is given &lt;a href=&quot;https://github.com/floydwch/kaggle-cli&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If the output of this command shows the kaggle.json file then we are ready to use the kaggle-cli API. The details of kaggle-cli are given &lt;a href=&quot;https://github.com/floydwch/kaggle-cli&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;sample-usage-of-kaggle-cli&quot;&gt;Sample usage of kaggle-cli&lt;/h2&gt;
+&lt;h2 id=&quot;sample-usages-of-kaggle-cli&quot;&gt;Sample usages of kaggle-cli&lt;/h2&gt;
 
-&lt;h3 id=&quot;list-kaggle-competitions&quot;&gt;List Kaggle Competitions&lt;/h3&gt;
+&lt;h3 id=&quot;retrieve-kaggle-competitions-list&quot;&gt;Retrieve Kaggle Competitions List&lt;/h3&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;!kaggle competitions list
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -91,7 +91,7 @@ google-ai-open-images-visual-relationship-track  2018-08-30 23:59:00  Featured  
 home-credit-default-risk                         2018-08-29 23:59:00  Featured           $70,000       7198           False
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h3 id=&quot;list-files-in-a-kaggle-competition&quot;&gt;List Files in a Kaggle Competition&lt;/h3&gt;
+&lt;h3 id=&quot;list-data-files-in-a-kaggle-competition&quot;&gt;List Data Files in a Kaggle Competition&lt;/h3&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# -c: competition name
 !kaggle competitions files -c planet-understanding-the-amazon-from-space
@@ -111,7 +111,7 @@ train_v2.csv.zip                 159KB  2017-05-09 03:01:24
 test_v2_file_mapping.csv.zip     110KB  2017-06-08 00:26:28
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h4 id=&quot;show-the-leaderboard-of-kaggle-cometitions&quot;&gt;Show the leaderboard of kaggle cometitions&lt;/h4&gt;
+&lt;h4 id=&quot;show-the-leaderboard-of-a-kaggle-competitions&quot;&gt;Show the leaderboard of a kaggle competitions&lt;/h4&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;!kaggle competitions leaderboard planet-understanding-the-amazon-from-space -s
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -143,11 +143,11 @@ test_v2_file_mapping.csv.zip     110KB  2017-06-08 00:26:28
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;!kaggle competitions leaderboard planet-understanding-the-amazon-from-space -d
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h3 id=&quot;download-data-from-kaggle-competitions&quot;&gt;Download Data from Kaggle Competitions&lt;/h3&gt;
+&lt;h3 id=&quot;download-dataset-from-kaggle-competitions&quot;&gt;Download Dataset from Kaggle Competitions&lt;/h3&gt;
 
 &lt;p&gt;In this article, we will download data from &lt;a href=&quot;https://www.kaggle.com/c/planet-understanding-the-amazon-from-space&quot;&gt;Planet: Understanding the Amazon from Space&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Please note that  to download data from any kaggle cometition, you must accept the terms and condition of that kaggle competitions.&lt;/p&gt;
+&lt;p&gt;Please note that you must accept the terms and condition of that kaggle competitions to download data from any kaggle competition.&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;!mkdir ~/data
 !cd ~/data
@@ -189,8 +189,8 @@ test_v2_file_mapping.csv.zip     110KB  2017-06-08 00:26:28
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;adc.json  planet/  sample_data/  test-jpg.tar  train-jpg.tar
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;In the first part of the kaggle API tutorial we cover basic usage of this API. In the next part we will cover the advance usages of kaggle API, such as submit solution to a kaggle competition. Till then you can see the documentation of [kaggle-cli](The details of kaggle-cli is given &lt;a href=&quot;https://github.com/floydwch/kaggle-cli&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In the first part of this kaggle API tutorial, we covered the basic usage of this API. In the next part, we will cover the advanced usages of kaggle API, such as submit a solution to a kaggle competition. Till then you can see the documentation of [kaggle-cli](The details of kaggle-cli is given &lt;a href=&quot;https://github.com/floydwch/kaggle-cli&quot;&gt;here&lt;/a&gt; and try the different usage of kaggle-cli.&lt;/p&gt;
 
-&lt;p&gt;I write this tutorial by following an introductory section on kaggle api of Cory Kendrick &lt;a href=&quot;https://github.com/corykendrick/fastai_in_colab&quot;&gt;fastai course notebook&lt;/a&gt;, so a big thanks to &lt;a href=&quot;https://github.com/corykendrick&quot;&gt;Cory  Kendrick&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I write this tutorial by following a tutorial of Cory Kendrick on &lt;a href=&quot;https://github.com/corykendrick/fastai_in_colab&quot;&gt;fastai course notebook&lt;/a&gt;, so a big thanks to &lt;a href=&quot;https://github.com/corykendrick&quot;&gt;Cory  Kendrick&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h3 id=&quot;if-you-have-any-comments-or-feedback-regarding-this-articles-or-my-writings-please-dont-hesitate-to-share-if-you-like-this-article-then-dont-forget-to-share-with-your-friends&quot;&gt;If you have any comments or feedback regarding this articles or my writings, please don’t hesitate to share. If you like this article then don’t forget to share with your friends.&lt;/h3&gt;</content><author><name>Md Mofijul Islam Akash</name><email>akash@.cse.du.ac.bd, akash.cse.du@gmail.com</email></author><summary type="html">This introductory article helps to prepare the google colab to use the kaggle api. Moreover, we will cover a couple of usages of kaggle-api. Let’s begin…</summary></entry></feed>
+&lt;h3 id=&quot;if-you-have-any-comments-or-feedback-regarding-this-articles-or-my-writings-please-dont-hesitate-to-share-with-me&quot;&gt;If you have any comments or feedback regarding this articles or my writings, please don’t hesitate to share with me.&lt;/h3&gt;</content><author><name>Md Mofijul Islam Akash</name><email>akash@.cse.du.ac.bd, akash.cse.du@gmail.com</email></author><summary type="html">This introductory article helps to prepare the google colab to use the kaggle api. Moreover, we will cover a couple of usages of kaggle-api, most importantly import data from kaggle. So let’s begin…</summary></entry></feed>
