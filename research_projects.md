@@ -2,18 +2,19 @@
 layout: about
 title: Research
 description: >
-  Md Mofijul Islam's Portfolio.
+  Md Mofijul Islam's Research.
 hide_description: true
 menu: true
 order: 3
 ---
 Table of Contents
   * [Artificial Inteligence and Machine learning](#artificial-intelligence-and-machine-learning)
-    - [Multi-modal and Multi-task Learning \[Grant\]](#multi-modal-and-multi-task-learning)
+    - [Multi-modal and Multi-task Learning **\[Grant\]**](#multi-modal-and-multi-task-learning)
       - [Transfer Lerning in Visual Question Answering](#transfer-lerning-in-visual-question-answering)
     - [Design Optimization and Evolutionary Approches](#design-optimization-and-evolutionary-approches)
       - [Resource Allocation in Mobile Cloud Computing](#resource-allocation-in-mobile-cloud-computing)
-      - [Reduce Overfiting Problem in Deep Learning Models](#reduce-overfiting-problem-in-deep-learning-models)
+      - [Reduce Overfiting Problem in Deep Learning Models](#reduce-overfitting-problem-in-deep-learning-models)
+      - [Optimized Distributed Clustering Model in DSN](#optimized-distributed-clustering-model-in-dsn)
     - [Developer Question Answering and Repository Mining](#developer-question-answering-and-repository-mining)
     - [Interpretable Machine Learning](#interpretable-machine-learning)
   - [Natural Language Processing](#natural-language-processing)
@@ -24,8 +25,6 @@ Table of Contents
     - [iProtGly-SS: Identifying Protein Lysine Glycation Sites](#iprotgly-ss-identifying-protein-lysine-glycation-sites)
     - [Identification of Recombination Hotspot in Genome](#identification-of-recombination-hotspot-in-genome)
   * [Big Graph Query and Mining](#big-graph-query-and-mining)
-
-[//]:  * [Data Visualization](#data-visualization)
 
 ## Artificial Intelligence and Machine Learning
 I am mainly working in the intersection of theoretical artificial intelligence and practical machine learning approaches. Currently, I am working to develop some learning models to solve problems in the various domain. As mainly I am involved in the design and developing learning model, I collaborate with several domain experts in different fields. Furthermore, I am interested to design and modify the internal structure of various learning models.
@@ -48,7 +47,7 @@ I am mainly working in the intersection of theoretical artificial intelligence a
         **Outcome:** [IEEE Access 2017](http://ieeexplore.ieee.org/document/7933943/),[NSysS 2016](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7400696)
 
       - ### Reduce Overfitting Problem in Deep Learning Models
-      We are currently working with some evhttp://127.0.0.1:4000/research_projects/olutionary and meta-heuristic local search approaches to reduce the overfitting problem in deep learning problem, as till now most of the effective solution of overfitting problem is not guided approach. Primarily, we are working in designing meta-heuristic dropout approach to reducing the overfitting problem.
+      We are currently working with some evolutionary and meta-heuristic local search approaches to reduce the overfitting problem in deep learning problem, as till now most of the effective solution of overfitting problem is not guided approach. Primarily, we are working in designing meta-heuristic dropout approach to reducing the overfitting problem.
 
         **Outcome:** [Work in Progress]
 
@@ -101,5 +100,3 @@ In this research project, we are working with domain experts to develop a learni
 We are working to develop algorithms which help to query and mining subgraph in a big graph dataset. Currently, we developed heuristic pruning based subgraph graph query approach to speed up the search and mining approach in the big scholarly dataset. As we are writing the paper, that's why we can not able to disclose our complete problem description and solution. However, if you need any more information, you can contact me.
 
   **Outcome:** [Manuscript in Preparation]
-
-[//]: ## Data Visualization
