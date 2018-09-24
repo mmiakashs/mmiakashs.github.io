@@ -48,7 +48,7 @@ I am mainly working in the intersection of theoretical artificial intelligence a
         **Outcome:** [IEEE Access 2017](http://ieeexplore.ieee.org/document/7933943/),[NSysS 2016](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7400696)
 
       - ### Reduce Overfitting Problem in Deep Learning Models
-      We are currently working with some evolutionary and meta-heuristic local search approaches to reduce the overfitting problem in deep learning problem, as till now most of the effective solution of overfitting problem is not guided approach. Primarily, we are working in designing meta-heuristic dropout approach to reducing the overfitting problem.
+      We are currently working with some evhttp://127.0.0.1:4000/research_projects/olutionary and meta-heuristic local search approaches to reduce the overfitting problem in deep learning problem, as till now most of the effective solution of overfitting problem is not guided approach. Primarily, we are working in designing meta-heuristic dropout approach to reducing the overfitting problem.
 
         **Outcome:** [Work in Progress]
 
@@ -58,9 +58,9 @@ I am mainly working in the intersection of theoretical artificial intelligence a
         **Outcome:** [EURASIP JWCN 2015](http://link.springer.com/article/10.1186/s13638-015-0394-2),[IEEE APWiMob 2014](http://ieeexplore.ieee.org/document/6920259/)
 
   * ## Developer Question Answering and Repository Mining
-    The aim of this work is to mine the question answering(QA) system data, especially StackOverflow QA data, and other software project repository data in order to design some learning and thus ease the problem solving task. As a part of this project, we developed an accepted answer recommendation modle, which helps to rank the answer in a StackOverflow question by utilizing various textual and meta feaures of the question, answer and the comments [RAiTA](https://link.springer.com/chapter/10.1007/978-981-13-1498-8_11).
+    The aim of this work is to mine the question answering(QA) system data, especially StackOverflow QA data, and other software project repository data in order to design some learning and thus ease the software development process. As a part of this project, we developed an accepted answer recommendation model, which helps to rank the answer in a StackOverflow question by utilizing various textual and meta-features of the question, answer and the comments [RAiTA](https://link.springer.com/chapter/10.1007/978-981-13-1498-8_11).
 
-    **Outcome:** [Springer IEMIS](https://link.springer.com/chapter/10.1007/978-981-13-1498-8_11)
+    **Outcome:** [Springer IEMIS 2018](https://link.springer.com/chapter/10.1007/978-981-13-1498-8_11)
 
   * ## Interpretable Machine Learning
     The goal of this project is to develop applications, which enable people to understand the learning process of learning models. In recent years several complex learning models have been proposed and these models outperform in solving several complex tasks. However, these mostly fails to explain the internal reasoning process, i.e. how their internal structure learns and most importantly which features learns in a particular layer. In this project, we address this problem and develop applications which help people to understand the black-box learning process. Moreover, we are also developing application which may help to debug learning models.
