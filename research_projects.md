@@ -26,7 +26,7 @@ Table of Contents
     - [iProtGly-SS: Identifying Protein Lysine Glycation Sites Using Sequence Features](#iprotgly-ss-identifying-protein-lysine-glycation-sites-using-sequence-features)
     - [Identification of Recombination Hotspot in Genome](#identification-of-recombination-hotspot-in-genome)
   * [Big Graph Query and Mining](#big-graph-query-and-mining)
-  * [Mining Spatiotemporal Behavior of Contributors in OpenStreetMap]()
+  * [Mining Spatiotemporal Behavior of Contributors in OpenStreetMap](#mining-spatiotemporal-behavior-of-contributors-in-openstreetmap)
 
 ## Artificial Intelligence and Machine Learning
 I am mainly working in the intersection of theoretical artificial intelligence and practical machine learning approaches. Currently, I am working to develop some learning models to solve problems in the various domain. As mainly I am involved in the design and developing learning model, I collaborate with several domain experts in different fields. Furthermore, I am interested to design and modify the internal structure of various learning models.
