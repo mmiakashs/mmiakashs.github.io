@@ -7,7 +7,7 @@ hide_description: true
 menu: true
 order: 4
 ---
-<a href="https://scholar.google.com/citations?user=SubC4TsAAAAJ" target="_blank">Google Scholar Profile</a>
+<a href="https://scholar.google.com/citations?user=SubC4TsAAAAJ" target="_blank">Google Scholar Profile</a><a href="https://www.researchgate.net/profile/Md_Mofijul_Islam" target="_blank">ResearchGate Profile</a>
 
 ## Journal Publication(Peer Reviewed):
 * Md Mofijul Islam, Sanjay Saha, Md Mahmudur Rahman, Swakkhar Shatabda, Dewan Md Farid, Abdollah Dehzangi, [**"iProtGly-SS: Identifying Protein Lysine Glycation Sites Using Sequence and Structure Based Features"**](https://www.ncbi.nlm.nih.gov/pubmed/29675975). Accepted in Proteins Journal-2018. [Source Code, Data, Web Application](http://brl.uiu.ac.bd/iprotgly-ss/)
