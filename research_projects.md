@@ -18,6 +18,7 @@ Table of Contents
       - [Optimized Distributed Clustering Model in DSN](#optimized-distributed-clustering-model-in-dsn)
     - [Developer Question Answering and Repository Mining](#developer-question-answering-and-repository-mining)
     - [Interpretable Machine Learning](#interpretable-machine-learning)
+      - [d-DeVIS](#d-devis-a-gray-box-interpretable-visual-debugging-approach-for-deep-sequence-learning-model)
   - [Natural Language Processing](#natural-language-processing)
     - [Transfer Learning Approach to Extract Fact and Validate Statement](#transfer-learning-approach-to-extract-fact-and-validate-statement)
     - [Bangla Article Classfication](#bangla-article-classification)
@@ -36,14 +37,14 @@ I am mainly working in the intersection of theoretical artificial intelligence a
 
     Representation learning is applied in different areas, such as Computer Vision, Natural Language Processing(NLP), Social Network analysis, etc. Most of the representational learning are applied in solving inference problems by leveraging the unimodal data. However, in recent years, with the increasing computation power, multi-modal learning is applied in developing different inference system. As multi-modal learning brings new information from different modalities, which in turn enable an inference system to embed this new information to learn a particular modality data representation with better confidence. For example, we can jointly learn the visual and textual data representation for Visual Question Answering System.
 
-      **Outcome:** **I received Nvidia Academic GPU Grant to conduct this work**
+      **Outcome:** **Received Nvidia Academic GPU Grant to conduct this work**
 
     -  ### Transfer Learning in Visual Question Answering
       Primary Investigator: Md Mofijul Islam, University of Dhaka
 
       Primarily, in this project, we want to apply the multi-modal and transfer learning approaches to improve the Visual Question Answering(VQA) system. We developed a multi-modal learning model by utilizing [VizWiz Dataset](http://vizwiz.org/data/#dataset) and achieved considerable performance. We have a plan to extend this work to test our approach in other datasets by incorporating transfer learning approach.
 
-        **Outcome:** [Manuscript in Preparation]
+      **Outcome:** [Manuscript in Preparation]
 
   * ## Design Optimization and Evolutionary Approaches
     The aim of this project is to design optimization and evolutionary approaches to solve NP-Complete problems in various domains, such as resource allocation in cloud computing environment and reduce overfitting issue as well as improve the reasoning process in learning models.
@@ -52,21 +53,21 @@ I am mainly working in the intersection of theoretical artificial intelligence a
 
       In this project, we utilized two evolutionary approaches, Genetic Algorithm and Particle Swarm Optimization(specifically Ant Colony Optimization) to design two resource allocation schemes in heterogeneous Mobile Cloud Computing(MCC) environment. This meta-heuristics resource allocation approaches helps to minimize the task execution and subsequently increase resource utilization in MCC, which is very crucial for Big data-based resource constrained cloud application, such as mobile and e-health application.
 
-        **Outcome:** [IEEE Access 2017](http://ieeexplore.ieee.org/document/7933943/),[NSysS 2016](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7400696)
+      **Outcome:** [IEEE Access 2017](http://ieeexplore.ieee.org/document/7933943/),[NSysS 2016](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7400696)
 
       - ### Reduce Overfitting Problem in Deep Learning Models
       Supervisor: Dr. Swakkhar Shatabda, United International University
 
       We are currently working with some evolutionary and meta-heuristic local search approaches to reduce the overfitting problem in deep learning problem, as till now most of the effective solution of overfitting problem is not guided approach. Primarily, we are working in designing meta-heuristic dropout approach to reducing the overfitting problem.
 
-        **Outcome:** [Work in Progress]
+      **Outcome:** [Work in Progress]
 
       - ### Optimized Distributed Clustering Model in DSN
       Supervisor: Dr. Md Abdur Razzaque, University of Dhaka
 
       We developed a dynamic distributed clustering model to minimize energy consumption and data collection time in the directional sensor network(DSN) by minimizing the active directional sensor nodes. Our clustering approach is showed effective performance to increase the network lifetime in DSN.
 
-        **Outcome:** [EURASIP JWCN 2015](http://link.springer.com/article/10.1186/s13638-015-0394-2),[IEEE APWiMob 2014](http://ieeexplore.ieee.org/document/6920259/)
+      **Outcome:** [EURASIP JWCN 2015](http://link.springer.com/article/10.1186/s13638-015-0394-2),[IEEE APWiMob 2014](http://ieeexplore.ieee.org/document/6920259/)
 
   * ## Developer Question Answering and Repository Mining
     Supervisor: Md Mofijul Islam, United International University
@@ -80,7 +81,12 @@ I am mainly working in the intersection of theoretical artificial intelligence a
 
     The goal of this project is to develop applications, which enable people to understand the learning process of learning models. In recent years several complex learning models have been proposed and these models outperform in solving several complex tasks. However, these mostly fails to explain the internal reasoning process, i.e. how their internal structure learns and most importantly which features learns in a particular layer. In this project, we address this problem and develop applications which help people to understand the black-box learning process. Moreover, we are also developing application which may help to debug learning models.
 
-      **Outcome:** [Under Review],[Manuscript in Preparation]
+      - ### d-DeVIS: A Gray Box Interpretable Visual Debugging Approach for Deep Sequence Learning Model
+
+      Deep Learning algorithms are often used as black box type learning and they are too complex to understand. The widespread usability of Deep Learning algorithms to solve various machine learning problems demands deep and transparent understanding of the internal representation as well as decision making. Moreover, the learning models, trained on sequential data, such as audio and video data, have intricate internal reasoning process due to their complex distribution of features. Thus, a visual simulator might be helpful to trace the internal decision making mechanisms in response to adversarial input data, and it would help to debug and design appropriate deep learning models. However, interpreting the internal reasoning of deep learning model is not well studied in the literature. In this work, we have developed a visual interactive web application, namely d-DeVIS, which helps to visualize the internal reasoning of the learning model which is trained on the audio data. The proposed system allows to perceive the behavior as well as to debug the model by interactively generating adversarial audio data point.
+
+      **Outcome:** [Under Review], [Video Demo](https://www.youtube.com/watch?v=O2bNV-U0ylg), [Web Application](http://ddevis.herokuapp.com/), [Source Code](https://github.com/anon-conf/d-DeVIS)
+
 
 ## Natural Language Processing
 Currently, we are working in designing transfer learning approaches in order to improve various computational linguistic problems. Furthermore, we are involved in developing the computationally linguistic model and comprehensive datasets of Bangla language. Because, in the literature, a few works address Bangla language, mainly due to the complexity of this language and the scarcity of the datasets.
@@ -90,20 +96,21 @@ Currently, we are working in designing transfer learning approaches in order to 
 
   In recent years, with the proliferation of social media, the validating statement appears as a crucial problem and attract the attention of NLP research communities. However, due to the lack of any comprehensive dataset, NLP communities could not address this problem effectively. That's why in this work, we are utilizing the transfer learning approach to develop a fact extraction and checking models with the few available datasets.
 
-    **Outcome:**[Manuscript in Preparation]
+  **Outcome:** [Under Review]
 
   * ### Bangla Article Classification
   Supervisor: Md Mofijul Islam, University of Dhaka
 
   We curated a comprehensive dataset of Bangla news articles, which contains around 400,000 news articles collected from different Bangla News portals. We also develop Bangla articles classification model with semantic textual features, which outperforms state-of-art-works. Moreover, we have also plan to extend this dataset, so that we can address other Bangla NLP research problems.
 
-    **Outcome:** ICBSLP 2018[[Dataset and Source Code](https://github.com/tanvirfahim15/BARD-Bangla-Article-Classifier), [Web Application](http://bard2018.pythonanywhere.com/)]
+  **Outcome:** ICBSLP 2018[[Dataset and Source Code](https://github.com/tanvirfahim15/BARD-Bangla-Article-Classifier), [Web Application](http://bard2018.pythonanywhere.com/)]
+
   * ### Bangla Speech and Speakers Identification
   Primary Investigator: Md Mofijul Islam, University of Dhaka
 
   Presently, in this work, we are developing a Bangla speech dataset so that researchers can develop various computational learning models, such as Bangla voice recognition, speakers identification etc. Till now, there is no public Bangla speech dataset available for research purpose.
 
-    **Outcome:** [Data Collection Application](http://banglawordlearner.firebaseapp.com)
+  **Outcome:** [Data Collection Application](http://banglawordlearner.firebaseapp.com)
 
 ## Computational Biology
 Supervisor: Dr. Swakkhar Shatabda, United International University
