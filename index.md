@@ -7,6 +7,8 @@ hide_description: true
 cover: false
 menu: 1
 ---
+[Updates](#updates)
+
 I am Md. Mofijul Islam, currently working as a Lecturer at the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/). I completed M.S. and B.Sc(Hons) in Computer Science and Engineering from the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/).
 
 My research interest broadly lies at the intersection of theoretical and practical machine learning to solve real world problems. Specifically, I am interested in working on research problems which are related to machine learning, transfer learning, optimization, graphical probabilistic models, natural language processing, social network analysis and interpretable machine learning. I am also working with optimization approaches to improve the computational learning process and solve resource constrained problems in cloud computing.
@@ -22,8 +24,8 @@ During my free time, I love to write code with background music and participate 
 * Mobile Application Development
 -->
 
-## News
-
+## Updates
+* 23 November 2018: "TELCO : A Transfer Learning based Claim Validation Approach." Accepted in IJCCI-2018
 * 31 August 2018: "BARD: Bangla Article Classification using a New Comprehensive Dataset." Accepted in ICBSLP-2018
 * 01 July 2018: Second Runner-up in True Augmented Reality Challenge-2018.
 * 15 April 2018: [**"iProtGly-SS: IdentifyingProtein Lysine Glycation Sites Using Sequence and Structure Based Features"**](https://www.ncbi.nlm.nih.gov/pubmed/29675975). Accepted in Proteins Journal-2018.
