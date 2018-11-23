@@ -96,7 +96,7 @@ Currently, we are working in designing transfer learning approaches in order to 
 
   In recent years, with the proliferation of social media, the validating statement appears as a crucial problem and attract the attention of NLP research communities. However, due to the lack of any comprehensive dataset, NLP communities could not address this problem effectively. That's why in this work, we are utilizing the transfer learning approach to develop a fact extraction and checking models with the few available datasets.
 
-  **Outcome:** [Under Review]
+  **Outcome:** [Accepted in IJCCI 2018]
 
   * ### Bangla Article Classification
   Supervisor: Md Mofijul Islam, University of Dhaka
