@@ -50,15 +50,17 @@ order: 6
 * Coordinator, Judge & problem setter, UIU Intra-University Programming Contest, 2015.
 
 ## Competitive Programming Contest (Coach- University of Dhaka)
-* Coach, International Collegiate programming Contest-2017, Dhaka Regional
+* Coach, International Collegiate programming Contest-2018, Dhaka Regional.
+* Coach, Inter-University Collegiate programming Contest-2018, Organized by Green University Bangladesh.
 * Coach, National Collegiate Programming Contest-2018.
+* Coach, International Collegiate programming Contest-2017, Dhaka Regional.
 
 ## Competitive Programming Contest (Coach- United International University)
-* Coach, International Collegiate programming Contest-2015, Dhaka Regional
+* Coach, International Collegiate programming Contest-2015, Dhaka Regional.
 * Coach, National Collegiate Programming Contest-2016.
-* Coach, Inter-University programming Contest-2016, Organized by NSU Cybernauts
-* Coach, Inter-University programming Contest-2016, Organized by SUB
-* Coach, Inter-University programming Contest-2016, Organized by IUT
+* Coach, Inter-University programming Contest-2016, Organized by NSU Cybernauts.
+* Coach, Inter-University programming Contest-2016, Organized by SUB.
+* Coach, Inter-University programming Contest-2016, Organized by IUT.
 * Coach, National Collegiate Programming Contest-2015.
-* Coach, Inter-University programming Contest-2015, Organized by SUST
-* Coach, Inter-University programming Contest-2015, Organized by IUT
+* Coach, Inter-University programming Contest-2015, Organized by SUST.
+* Coach, Inter-University programming Contest-2015, Organized by IUT.
