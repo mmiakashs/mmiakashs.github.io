@@ -8,16 +8,16 @@ menu: true
 order: 9
 ---
 ## Courses at University of Dhaka
-* Fall 2018: Fundametal Programming, Algorithm Design and Analysis Lab.
+* Fall 2018: Fundamental Programming (Theory and Lab), Algorithm Design and Analysis Lab.
 * Spring 2018: Software Engineering, Object Oriented Programming Lab, Data Structure Lab.
-* Fall 2017: Software Design Pattern, Application Development Lab.
+* Fall 2017: Software Design Pattern (Theory and Lab), Application Development Lab.
 
 ## Courses at United International University
-* Summer 2017: Database Management System, Object Oriented Programming.
-* Spring 2017: Mobile Application Development, Object Oriented Programming.
-* Fall 2016: Mobile Application Development, Object Oriented Programming, Advanced Object Oriented Programming.
-* Summer 2016: Mobile Application Development, Object Oriented Programming, Algorithm Design and Analysis.
-* Spring 2016: Algorithm Design and Analysis, Discrete Mathematics.
-* Fall 2015: Artificial Intelligence, Mobile Application Development, Algorithm Design and Analysis.
-* Summer 2015: Algorithm Design and Analysis, Discrete Mathematics, Compiler.
-* Spring 2015: Algorithm Design and Analysis, Discrete Mathematics.
+* Summer 2017: Database Management System (Theory and Lab), Object Oriented Programming (Theory and Lab).
+* Spring 2017: Mobile Application Development, Object Oriented Programming (Theory and Lab).
+* Fall 2016: Mobile Application Development, Object Oriented Programming (Theory and Lab), Advanced Object Oriented Programming.
+* Summer 2016: Mobile Application Development, Object Oriented Programming (Theory and Lab), Algorithm Design and Analysis (Theory and Lab).
+* Spring 2016: Algorithm Design and Analysis (Theory and Lab), Discrete Mathematics.
+* Fall 2015: Artificial Intelligence Lab, Mobile Application Development, Algorithm Design and Analysis (Theory and Lab).
+* Summer 2015: Algorithm Design and Analysis (Theory and Lab), Discrete Mathematics, Compiler Design and Construction.
+* Spring 2015: Algorithm Design and Analysis (Theory and Lab), Discrete Mathematics.

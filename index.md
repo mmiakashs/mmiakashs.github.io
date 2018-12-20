@@ -29,7 +29,7 @@ During my free time, I love to write code with background music and participate 
 * 31 August 2018: "BARD: Bangla Article Classification using a New Comprehensive Dataset." Accepted in ICBSLP-2018
 * 01 July 2018: Second Runner-up in True Augmented Reality Challenge-2018.
 * 15 April 2018: [**"iProtGly-SS: IdentifyingProtein Lysine Glycation Sites Using Sequence and Structure Based Features"**](https://www.ncbi.nlm.nih.gov/pubmed/29675975). Accepted in Proteins Journal-2018.
-* 22nd December 2017: Got **NVIDIA Academic GPU Grant.**
+* 22nd December 2017: Received **NVIDIA Academic GPU Grant.**
 * 27th November 2017: "RAiTA: Recommending Accepted Answer using Textual Metadata", accepted in Springer IEMIS-2018
 * 18th November 2017: "VIM: A Big Data Analytics Tool for Data Visualization and Knowledge Mining", accepted in IEEE WIECON-ECE-2017
 * 11th November 2017: attended International Collegiate Programming Contest-2017(Dhaka Regional) as a coach

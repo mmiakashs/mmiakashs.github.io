@@ -23,7 +23,7 @@ order: 4
 * **Md Mofijul Islam**, Md. Ahasanuzzaman, Md. Abdur Razzaque, Mohammad Mehedi Hassan, Atif Alamri, [A Distributed Clustering Algorithm for Target Coverage in Directional Sensor Network](http://ieeexplore.ieee.org/document/6920259/), in Proceedings of IEEE Asia Pacific Conference on Wireless and Mobile, Bali, Indonesia(2014).
 
 ### Under Review / Manuscript in Preparation:
+* Md Mofijul Islam, Amar Debnath, Tahsin Al Sayeed, Jyotirmay Nag Setu, Md Mahmudur Rahman, Md Sadman Sakib, Md Abdur Razzaque, Md. Mosaddek Khan, Swakkhar Shatabda,“A Gray Box Interpretable Visual Debugging Approach for Deep Sequence Learning Model”, [ArXiv](https://arxiv.org/abs/1811.08374)
 * Amor Deb Nath, Redoan Rahman, Md. Mofijul Islam,”A Transfer Learning Appraoch for Extracting Facts to Valididate the Statement”.
 * Md.Tanvir Alam, Md. Mofijul Islam, “LEARN$$^2$$: An Interactive Guru Assisting to Learn Learning Algorithms”.
-* Md Mofijul Islam, Amar Debnath, Tahsin Al Sayeed, Jyotirmay Nag Setu, Md Mahmudur Rahman, Md Sadman Sakib, Md Abdur Razzaque, Md. Mosaddek Khan, Swakkhar Shatabda,“A Gray Box Interpretable Visual Debugging Approach for Deep Sequence Learning Model”
 * Md. Mofijul Islam, Sk. Shariful Islam Arafat, Md Shakil Hossain, S M Al-Hossain Imam, Md. Mahmudul Hasan, "PRISM: Personalized Questions Recommender System for the Expert User".
