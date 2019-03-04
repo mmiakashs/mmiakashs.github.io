@@ -25,6 +25,8 @@ During my free time, I love to write code with background music and participate 
 -->
 
 ## Updates
+* 04 March 2019: **"A Gray Box Interpretable Visual Debugging Approach for Deep Sequence Learning Model", accepted in ICLR-2019 Workshop: Debugging Machine Learning Models**
+* 04 March 2019: **Received a scholarship to attend 7th Workshop on Collaborative Scientific Software Development to be held at the Abdus Salam International Centre for Theoretical Physics (ICTP), in Trieste from 29 April 2019 to 10 May 2019.**
 * 23 November 2018: "A Hierarchical Learning Model for Claim Validation." Accepted in IJCCI-2018
 * 31 August 2018: "BARD: Bangla Article Classification using a New Comprehensive Dataset." Accepted in ICBSLP-2018
 * 01 July 2018: Second Runner-up in True Augmented Reality Challenge-2018.
