@@ -11,10 +11,9 @@ menu: 1
 
 I am Md. Mofijul Islam, currently working as a Lecturer at the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/). I completed M.S. and B.Sc(Hons) in Computer Science and Engineering from the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/).
 
-My research interest broadly lies at the intersection of theoretical and practical machine learning to solve real world problems. Specifically, I am interested in working on research problems which are related to machine learning, transfer learning, optimization, graphical probabilistic models, natural language processing, social network analysis and interpretable machine learning. I am also working with optimization approaches to improve the computational learning process and solve resource constrained problems in cloud computing.
+My research interest broadly lies at the intersection of theoretical and practical machine learning to solve real world problems. Specifically, I am interested in working on research problems which are related to machine learning, transfer learning, optimization, graphical probabilistic models, and interpretable ML.
 
-During my free time, I love to write code with background music and participate in hackathons, programming and software contests. I also like to travel new places.
-
+I love to write code with background music and participate in hackathons, programming and software contests. During my free time, I like to travel new places.
 <!---
 ## Research interest
 * Machine Learning
@@ -23,8 +22,8 @@ During my free time, I love to write code with background music and participate 
 * Big data and Mobile Cloud Computing
 * Mobile Application Development
 -->
-
 ## Updates
+* 11 March 2019: **Accepted into Cornell, Maryland, Max Planck Pre-doctoral School 2019(05-10 August 2019)**
 * 04 March 2019: **"A Gray Box Interpretable Visual Debugging Approach for Deep Sequence Learning Model", accepted in ICLR-2019 Workshop: Debugging Machine Learning Models**
 * 04 March 2019: **Received a scholarship to attend 7th Workshop on Collaborative Scientific Software Development to be held at the Abdus Salam International Centre for Theoretical Physics (ICTP), in Trieste from 29 April 2019 to 10 May 2019.**
 * 23 November 2018: "A Hierarchical Learning Model for Claim Validation." Accepted in IJCCI-2018
