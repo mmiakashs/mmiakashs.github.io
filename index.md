@@ -14,6 +14,7 @@ I am Md. Mofijul Islam, currently working as a Lecturer at the [Department of Co
 My research interest broadly lies at the intersection of theoretical and practical machine learning to solve real world problems. Specifically, I am interested in working on research problems which are related to machine learning, transfer learning, optimization, graphical probabilistic models, and interpretable ML.
 
 I love to write code with background music and participate in hackathons, programming and software contests. During my free time, I like to travel new places.
+
 <!---
 ## Research interest
 * Machine Learning
@@ -22,6 +23,7 @@ I love to write code with background music and participate in hackathons, progra
 * Big data and Mobile Cloud Computing
 * Mobile Application Development
 -->
+
 ## Updates
 * 11 March 2019: **Accepted into Cornell, Maryland, Max Planck Pre-doctoral School 2019(05-10 August 2019)**
 * 04 March 2019: **"A Gray Box Interpretable Visual Debugging Approach for Deep Sequence Learning Model", accepted in ICLR-2019 Workshop: Debugging Machine Learning Models**
