@@ -16,6 +16,8 @@ order: 2
 
 
 ### MOOC Courses[Selected]
+* Practical Deep Learning for Coders, Fast.ai Course V3 Part Two 2019 [Ongoing]
+* Practical Deep Learning for Coders, Fast.ai Course V3 Part One 2018-19 [completed]
 * Convolutional Neural Network by deeplearning.ai on Coursera[Deep Learning Specilization]. [Ongoing]
 * Neural Networks and Deep Learning by deeplearning.ai on Coursera[Deep Learning Specilization]. [Certificate](https://www.coursera.org/account/accomplishments/records/XAHPLY7C4M2D)
 * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization by deeplearning.ai on Coursera. [Certificate]
