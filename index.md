@@ -25,6 +25,7 @@ I love to write code with background music and participate in hackathons, progra
 -->
 
 ## Updates
+* 09 April 2019: **Two papers accepted in TENSYMP 2019**
 * 11 March 2019: **Accepted into Cornell, Maryland, Max Planck Pre-doctoral School 2019(05-10 August 2019)**
 * 04 March 2019: **"A Gray Box Interpretable Visual Debugging Approach for Deep Sequence Learning Model", accepted in ICLR-2019 Workshop: Debugging Machine Learning Models**
 * 04 March 2019: **Received a scholarship to attend 7th Workshop on Collaborative Scientific Software Development to be held at the Abdus Salam International Centre for Theoretical Physics (ICTP), in Trieste from 29 April 2019 to 10 May 2019.**
