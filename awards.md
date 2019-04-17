@@ -7,15 +7,19 @@ hide_description: true
 menu: true
 order: 6
 ---
-## Fellowship
-* NVIDIA GPU Grant for Academic Research on Deep Learning Project.
-* Youth Fellowship, 2016, awarded by Asia Pacific Network and Information Center(APNIC 42).
-* ICT Fellowship, 2015-2016, awarded by Ministry of Information and Communication Technology, Bangladesh.
-
-
-## Academic Award
-* Dean’s Award(Session 2012-13), University of Dhaka, Bangladesh.
+## Academic / Research
+* Accepted into **Cornell, Maryland, Max Planck Pre-doctoral School 2019**(05-10 August 2019)
+* Received a small research grant from University Grants Commission(UGC), Bangladesh Government for a research project: **Domain Adaptive Transfer Learning for Multi-task Learning Model**
+* **NVIDIA GPU Grant** for Academic Research on Deep Learning Project.
+* **Dean’s Award(Session 2012-13)**, University of Dhaka, Bangladesh.
   > In recognition of the Outstanding Scholastic Achievement in Bachelor of Science in Computer Science and Engineering. This award was given for securing 3.94(Out of 4) and Second in Class position.
+
+* **Youth Fellowship**, 2016, awarded by Asia Pacific Network and Information Center(APNIC 42).
+* **ICT Fellowship**, 2015-2016, awarded by Ministry of Information and Communication Technology, Bangladesh.
+* PyTorch Scholarship Challenge from Facebook
+* Received a scholarship to attend 7th Workshop on Collaborative Scientific Software Development, Abdus Salam
+International Centre for Theoretical Physics (ICTP), in Trieste from 29 April 2019 to 10 May 2019.
+
 
 ## Software Contest/Hackathon - International (Contestants)
 * Winner(Round one), Team – Omelet( Team Leader), Samsung Gear App Challenge 2014.
