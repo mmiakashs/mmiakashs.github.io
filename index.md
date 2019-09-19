@@ -9,9 +9,9 @@ menu: 1
 ---
 [News & Updates](#updates)
 
-I am Md. Mofijul Islam, currently working as a Lecturer at the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/). I completed M.S. and B.Sc(Hons) in Computer Science and Engineering from the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/).
+I am Md. Mofijul Islam, PhD student, University of Virginia. I am working at the [Link Lab](https://engineering.virginia.edu/link-lab-0) with [Prof. Tariq Iqbal](http://www.tiqbal.com/). Previously, I was working as a Lecturer at the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/)(Take Study Leave). I completed M.S. and B.Sc(Hons) in Computer Science and Engineering from the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/).
 
-My research interest broadly lies at the intersection of theoretical and practical machine learning to solve real world problems. Specifically, I am interested in working on research problems which are related to machine learning, transfer learning, optimization, graphical probabilistic models, and interpretable ML.
+My research interest broadly lies at the intersection of Artificial Inteligence and Computational Human-Robot Interaction. Specifically, I am interested in working on research problems which are related to machine learning, transfer learning, optimization, graphical probabilistic models, and interpretable ML.
 
 I love to write code with background music and participate in hackathons, programming and software contests. During my free time, I like to travel new places.
 
@@ -51,9 +51,3 @@ I love to write code with background music and participate in hackathons, progra
 * 14th January 2017: Conducted a workshop on Android Mobile Application Development at University of Dhaka.
 * 7-9th January 2017: Attended NSysS-2016 Conference, BUET, Dhaka, Bangladesh
 
-## Current Mailing Address:
-Department of CSE(Science Complex),
-
-Room 408, University of Dhaka
-
-Dhaka-1000, Bangladesh.
