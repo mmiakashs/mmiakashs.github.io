@@ -8,9 +8,9 @@ hide_description: true
 menu: true
 order: 2
 ---
-
-* Master of Science(M.S.) in Computer Science and Engineering, Department of Computer Science and Engineering, University of Dhaka.
-* Bachelor of Science(B.Sc.) in Computer Science & Engineering, Department of Computer Science and Engineering, University of Dhaka.
+* PhD in Systems Engineering, University of Dhaka[Aug 2019-Present]
+* Master of Science(M.S.) in Computer Science and Engineering, Department of Computer Science and Engineering, University of Dhaka.[Jul 2014-Dec 2016]
+* Bachelor of Science(B.Sc.) in Computer Science & Engineering, Department of Computer Science and Engineering, University of Dhaka.[Feb 2010-Feb 2014]
 * Higher Secondary School Certificate (XIth and XIIth) from Dania University College, Dhaka.
 * Secondary School Certificate (IXth and Xth) from A.K High School, Dhaka.
 
