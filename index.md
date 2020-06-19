@@ -11,7 +11,7 @@ menu: 1
 
 I am Md Mofijul (Akash) Islam, PhD student, University of Virginia. I am working at the [Link Lab](https://engineering.virginia.edu/link-lab-0) with [Prof. Tariq Iqbal](http://www.tiqbal.com/). I was previously working as a Lecturer at the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/). I completed M.S. and B.Sc(Hons) in Computer Science and Engineering from the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/).
 
-My research interest broadly lies at the intersection of Artificial Intelligence and Computational Human-Robot Interaction. Specifically, I am interested in working on research problems related to multimodal and multi-task learning, transfer learning, optimization, and graphical probabilistic models.
+My research interest broadly lies at the intersection of multimodal multi-task learning, self-supervised learning, optimization, and Computational Human-Robot Interaction.
 
 I love to write code with background music and participate in hackathons, programming, and software contests. During my free time, I like to travel to new places.
 
