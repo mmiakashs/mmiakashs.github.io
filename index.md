@@ -9,7 +9,7 @@ menu: 1
 ---
 [News & Updates](#updates)
 
-I am Md Mofijul (Akash) Islam, PhD student, University of Virginia. I am working at the [Link Lab](https://engineering.virginia.edu/link-lab-0) with [Prof. Tariq Iqbal](http://www.tiqbal.com/). I was previously working as a Lecturer at the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/). I completed M.S. and B.Sc(Hons) in Computer Science and Engineering from the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/).
+I am Md Mofijul (Akash) Islam, PhD student, University of Virginia. I am an ESE-UVA Bicentennial Fellow (2019-2020). I am working at the [Link Lab](https://engineering.virginia.edu/link-lab-0) with [Prof. Tariq Iqbal](http://www.tiqbal.com/). I was previously working as a Lecturer at the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/). I completed M.S. and B.Sc(Hons) in Computer Science and Engineering from the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/).
 
 My research interest broadly lies at the intersection of multimodal multi-task learning, self-supervised learning, optimization, and Computational Human-Robot Interaction.
 
@@ -25,6 +25,7 @@ I love to write code with background music and participate in hackathons, progra
 -->
 
 ## Updates
+* 26 August 2019: Received ESE-UVA Bicentennial Fellowship (2019-2020)
 * 16 August 2019: Moved to Charlottesville, Virginia, US to start my PhD study at University of Virginia. Keep my in your prayers :)
 * 05 June 2019: **Received a scholarship to attend Locomotion and Navigation from Flies to Robots, in Trieste, Italy from 29 April 2019 to 10 May 2019.(couldn't able to attend due to the Visa issue)**
 * 09 April 2019: **Two papers accepted in TENSYMP 2019**
