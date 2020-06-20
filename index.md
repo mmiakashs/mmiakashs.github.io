@@ -25,21 +25,21 @@ I love to write code with background music and participate in hackathons, progra
 -->
 
 ## Updates
-* 26 August 2019: Received ESE-UVA Bicentennial Fellowship (2019-2020)
+* 26 August 2019: **Received ESE-UVA Bicentennial Fellowship (2019-2020)**
 * 16 August 2019: Moved to Charlottesville, Virginia, US to start my PhD study at University of Virginia. Keep my in your prayers :)
-* 05 June 2019: **Received a scholarship to attend Locomotion and Navigation from Flies to Robots, in Trieste, Italy from 29 April 2019 to 10 May 2019.(couldn't able to attend due to the Visa issue)**
-* 09 April 2019: **Two papers accepted in TENSYMP 2019**
-* 03 April 2019: Received a small research grant from University Grants Commission(UGC), Bangladesh Government for a research project:**Domain Adaptive Transfer Learning for Multi-task Learning Model**
-* 11 March 2019: **Accepted into Cornell, Maryland, Max Planck Pre-doctoral School 2019(05-10 August 2019), Saarbrücken, Germany**
-* 04 March 2019: **"A Gray Box Interpretable Visual Debugging Approach for Deep Sequence Learning Model", accepted in ICLR-2019 Workshop: Debugging Machine Learning Models**
-* 04 March 2019: **Received a scholarship to attend 7th Workshop on Collaborative Scientific Software Development to be held at the Abdus Salam International Centre for Theoretical Physics (ICTP), in Trieste, Italy from 29 April 2019 to 10 May 2019.**
+* 05 June 2019: Received a scholarship to attend Locomotion and Navigation from Flies to Robots, in Trieste, Italy from 29 April 2019 to 10 May 2019.(couldn't able to attend due to the Visa issue)
+* 09 April 2019: Two papers accepted in TENSYMP 2019
+* 03 April 2019: Received a small research grant from University Grants Commission(UGC), Bangladesh Government for a research project:Domain Adaptive Transfer Learning for Multi-task Learning Model
+* 11 March 2019: Accepted into Cornell, Maryland, Max Planck Pre-doctoral School 2019(05-10 August 2019), Saarbrücken, Germany
+* 04 March 2019: "A Gray Box Interpretable Visual Debugging Approach for Deep Sequence Learning Model", accepted in ICLR-2019 Workshop: Debugging Machine Learning Models
+* 04 March 2019: Received a scholarship to attend 7th Workshop on Collaborative Scientific Software Development to be held at the Abdus Salam International Centre for Theoretical Physics (ICTP), in Trieste, Italy from 29 April 2019 to 10 May 2019.
 * 11 February 2019: "NEWSTRADCOIN: A Blockchain Based Privacy Preserving Secure NEWS Trading Network", accepted in IC-BCT 2019.
 * 22 January 2019: "Two Phase Authentication and VPN Based Secured Communication for IoT Home Networks", accepted in MIND-2019.
 * 23 November 2018: "A Hierarchical Learning Model for Claim Validation." accepted in IJCCI-2018
 * 31 August 2018: "BARD: Bangla Article Classification using a New Comprehensive Dataset." accepted in ICBSLP-2018
 * 01 July 2018: Second Runner-up in True Augmented Reality Challenge-2018.
-* 15 April 2018: [**"iProtGly-SS: IdentifyingProtein Lysine Glycation Sites Using Sequence and Structure Based Features"**](https://www.ncbi.nlm.nih.gov/pubmed/29675975). Accepted in Proteins Journal-2018.
-* 22nd December 2017: Received **NVIDIA Academic GPU Grant.**
+* 15 April 2018: ["iProtGly-SS: IdentifyingProtein Lysine Glycation Sites Using Sequence and Structure Based Features"](https://www.ncbi.nlm.nih.gov/pubmed/29675975). Accepted in Proteins Journal-2018.
+* 22nd December 2017: Received NVIDIA Academic GPU Grant
 * 27th November 2017: "RAiTA: Recommending Accepted Answer using Textual Metadata", accepted in Springer IEMIS-2018
 * 18th November 2017: "VIM: A Big Data Analytics Tool for Data Visualization and Knowledge Mining", accepted in IEEE WIECON-ECE-2017
 * 11th November 2017: attended International Collegiate Programming Contest-2017(Dhaka Regional) as a coach
