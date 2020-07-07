@@ -15,6 +15,7 @@ order: 4
 * **Md Mofijul Islam**, Md. Ahasanuzzaman, Md. Abdur Razzaque, M. M. Hassan, Abdulhameed Alelaiwi, Yang Xian, [Target coverage through distributed clustering in directional sensor networks.](http://link.springer.com/article/10.1186/s13638-015-0394-2) EURASIP J. Wireless Communications and Networking. 167: (2015).
 
 ## Conference Publication(Peer Reviewed):
+* **Md Mofijul Islam**, Tariq Iqbal, "HAMLET: A Hierarchical Multimodal Attention-based Human Activity Recognition", accepted in [IROS-2020](https://www.iros2020.org/)
 * **Md Mofijul Islam**, Amar Debnath, Tahsin Al Sayeed, Jyotirmay Nag Setu, Md Mahmudur Rahman, Md SadmanSakib, Md. Mosaddek Khan, Swakkhar Shatabda, Anik Islam, ”A Gray Box Interpretable Debugging Approach forDeepSequenceLearningModel”, acceptedinICLR-2019Workshop: DebuggingMachineLearningModels(Poster).
 * **Md Mofijul Islam**, Amar Debnath, Tahsin Al Sayeed, Md Mahmudur Rahman,Md. Mosaddek Khan, SwakkharShatabda, Anik Islam, ”d-DeVIS: A Gray Box Interpretable Debugging Approach for Deep Sequence LearningModel”, accepted in TENSYMP-2019. [arXiv](https://arxiv.org/abs/1811.08374)
 * Md.Tanvir Alam, **Md Mofijul Islam**, Anik Islam, “LEARN2: An Interactive Guru Assisting to Learn Learning Algo-rithms”, Accepted in TENSYMP 2019
