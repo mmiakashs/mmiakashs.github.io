@@ -25,7 +25,7 @@ I love to write code with background music and participate in hackathons, progra
 -->
 
 ## Updates
-* 12-18 July 2020: Volunteer at ICML-2020
+* 12-18 July 2020: Student Volunteer at ICML-2020
 * 30 June 2020: **Excited !!! My first PhD work, "[HAMLET: A Hierarchical Multimodal Attention-based Human Activity Recognition](https://arxiv.org/abs/2008.01148)", has been accepted in IROS-2020**
 * 26 August 2019: **Received ESE-UVA Bicentennial Fellowship (2019-2020)**
 * 16 August 2019: Moved to Charlottesville, Virginia, US to start my PhD study at University of Virginia. Keep my in your prayers :)
