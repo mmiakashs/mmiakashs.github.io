@@ -8,9 +8,9 @@ menu: true
 order: 6
 ---
 ## Academic / Research
+* **NVIDIA GPU Grant** for a Multimodal Learning Research Project.
 * Accepted into **Cornell, Maryland, Max Planck Pre-doctoral School 2019**(05-10 August 2019)
 * Received a small research grant from University Grants Commission(UGC), Bangladesh Government for a research project: **Domain Adaptive Transfer Learning for Multi-task Learning Model**
-* **NVIDIA GPU Grant** for Academic Research on Deep Learning Project.
 * **Dean’s Award(Session 2012-13)**, University of Dhaka, Bangladesh.
   > In recognition of the Outstanding Scholastic Achievement in Bachelor of Science in Computer Science and Engineering. This award was given for securing 3.94(Out of 4) and Second in Class position.
 
