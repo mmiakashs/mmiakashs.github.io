@@ -25,7 +25,7 @@ I love to write code with background music and participate in hackathons, progra
 -->
 
 ## Updates
-* 29 Jan 2021: **Excited !!! My first PhD work, "[Multi-GAT: A Graphical Attention-based Hierarchical Multimodal Representation Learning Approach for Human Activity Recognition](https://youtu.be/Bsbn4pN6Oo4)", has been accepted in IEEE Robotics and Automation Letters (RA-L).** [Video Demo](https://youtu.be/Bsbn4pN6Oo4)
+* 29 Jan 2021: **Excited !!! "[Multi-GAT: A Graphical Attention-based Hierarchical Multimodal Representation Learning Approach for Human Activity Recognition](https://youtu.be/Bsbn4pN6Oo4)", has been accepted in IEEE Robotics and Automation Letters (RA-L).** [Video Demo](https://youtu.be/Bsbn4pN6Oo4)
 * 06-12 December 2020: Student Volunteer at NeurIPS-2020
 * 12-18 July 2020: Student Volunteer at ICML-2020
 * 30 June 2020: **Excited !!! My first PhD work, "[HAMLET: A Hierarchical Multimodal Attention-based Human Activity Recognition](https://arxiv.org/abs/2008.01148)", has been accepted in IROS-2020.** [Video Presentation](https://youtu.be/BZ7vmwNczSs)
