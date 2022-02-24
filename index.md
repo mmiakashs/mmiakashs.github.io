@@ -27,15 +27,15 @@ I love to write code with background music and participate in hackathons, progra
 ## Updates
 * 04 Feb 2022: Received Association for the Advancement of Artificial Intelligence (AAAI) Conference Scholarship (2022)
 * 03 Dec 2021: Our work "iSpy a Humorous Robot: Evaluating the Perceptions of Humor Types in a Robot Partner," has been accepted in AAAI Spring 2022 Symposium
-* 01 Dec 2021: Our work "MuMu: Cooperative Multitask Learning-based Guided Multimodal Fusion," has been accepted in AAAI (Main Track: Oral) [Pre-print](https://github.com/mmiakashs/mmiakashs.github.io/blob/master/assets/Mofijul_AAAI_2022_MuMu_Preprint.pdf) [Video Presentation](https://recorder-v3.slideslive.com/?share=59838&s=ee1395b9-974b-4597-b22c-d2c071b1496d) [Flash Talk](https://recorder-v3.slideslive.com/?share=59840&s=a3ef2807-65a2-4d0e-9bf8-b46d3c6bc66c)
+* 01 Dec 2021: Our work "MuMu: Cooperative Multitask Learning-based Guided Multimodal Fusion," has been accepted in AAAI (Main Track: Oral) [[Pre-print]](https://github.com/mmiakashs/mmiakashs.github.io/blob/master/assets/Mofijul_AAAI_2022_MuMu_Preprint.pdf) [[Video Presentation]](https://recorder-v3.slideslive.com/?share=59838&s=ee1395b9-974b-4597-b22c-d2c071b1496d) [[Flash Talk]](https://recorder-v3.slideslive.com/?share=59840&s=a3ef2807-65a2-4d0e-9bf8-b46d3c6bc66c)
 * Nov 29 2021: Our work "Who's Laughing NAO? Examining Perceptions of Failure in a Humorous Robot Partner," has been accepted in HRI-2022
 * 04 Oct 2021: Excited!!! I received UVA Engineering Endowed Fellowship
 * 03 May 2021: I will join Amazon Alexa AI team as summer-2021 Applied Scientist Intern**
 * 02 May 2021: I will volunteer ICLR-2021
-* 29 Jan 2021: Our work, "[Multi-GAT: A Graphical Attention-based Hierarchical Multimodal Representation Learning Approach for Human Activity Recognition](https://ieeexplore.ieee.org/document/9354900)", has been accepted in IEEE Robotics and Automation Letters (RA-L). [Paper](https://ieeexplore.ieee.org/document/9354900) [Video Demo](https://youtu.be/Bsbn4pN6Oo4)
+* 29 Jan 2021: Our work, "[Multi-GAT: A Graphical Attention-based Hierarchical Multimodal Representation Learning Approach for Human Activity Recognition](https://ieeexplore.ieee.org/document/9354900)", has been accepted in IEEE Robotics and Automation Letters (RA-L). [[Paper]](https://ieeexplore.ieee.org/document/9354900) [[Video Demo]](https://youtu.be/Bsbn4pN6Oo4)
 * 06-12 December 2020: Student Volunteer at NeurIPS-2020
 * 12-18 July 2020: Student Volunteer at ICML-2020
-* 30 June 2020: Excited !!! My first PhD work, "[HAMLET: A Hierarchical Multimodal Attention-based Human Activity Recognition](https://ieeexplore.ieee.org/document/9340987)", has been accepted in IROS-2020. [Video Presentation](https://youtu.be/BZ7vmwNczSs)
+* 30 June 2020: Excited !!! My first PhD work, "[HAMLET: A Hierarchical Multimodal Attention-based Human Activity Recognition](https://ieeexplore.ieee.org/document/9340987)", has been accepted in IROS-2020. [[Video Presentation]](https://youtu.be/BZ7vmwNczSs)
 * 26 August 2019: Received ESE-UVA Bicentennial Fellowship (2019-2020)
 * 16 August 2019: Moved to Charlottesville, Virginia, US to start my PhD study at University of Virginia. Keep my in your prayers :)
 * 05 June 2019: Received a scholarship to attend Locomotion and Navigation from Flies to Robots, in Trieste, Italy from 29 April 2019 to 10 May 2019.(couldn't able to attend due to the Visa issue)
