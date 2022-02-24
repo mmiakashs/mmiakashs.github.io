@@ -25,7 +25,7 @@ I love to write code with background music and participate in hackathons, progra
 -->
 
 ## Updates
-* 04 Feb 2022: ssociation for the Advancement of Artificial Intelligence (AAAI) Conference Scholarship (2022)
+* 04 Feb 2022: Received Association for the Advancement of Artificial Intelligence (AAAI) Conference Scholarship (2022)
 * 03 Dec 2021: Our work "iSpy a Humorous Robot: Evaluating the Perceptions of Humor Types in a Robot Partner," has been accepted in AAAI Spring 2022 Symposium
 * 01 Dec 2021: Our work "MuMu: Cooperative Multitask Learning-based Guided Multimodal Fusion," has been accepted in AAAI (Main Track: Oral) [Pre-print](https://github.com/mmiakashs/mmiakashs.github.io/blob/master/assets/Mofijul_AAAI_2022_MuMu_Preprint.pdf) [Video Presentation](https://recorder-v3.slideslive.com/?share=59838&s=ee1395b9-974b-4597-b22c-d2c071b1496d) [Flash Talk](https://recorder-v3.slideslive.com/?share=59840&s=a3ef2807-65a2-4d0e-9bf8-b46d3c6bc66c)
 * Nov 29 2021: Our work "Who's Laughing NAO? Examining Perceptions of Failure in a Humorous Robot Partner," has been accepted in HRI-2022
