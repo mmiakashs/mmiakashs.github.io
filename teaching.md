@@ -7,12 +7,16 @@ hide_description: true
 menu: true
 order: 9
 ---
-## Courses at University of Dhaka
+## Teaching Assistant at University of Virginia
+* Spring 2021: Robots and Humans (Teaching Assistant w/ Dr. Tariq Iqbal)
+* Fall 2020: Stochastic Modeling I (Teaching Assistant w/ Dr. Tariq Iqbal)
+
+## Teaching Courses at University of Dhaka (As a Faculty)
 * Fall 2018: Fundamental Programming (Theory and Lab), Algorithm Design and Analysis Lab.
 * Spring 2018: Software Engineering, Object Oriented Programming Lab, Data Structure Lab.
 * Fall 2017: Software Design Pattern (Theory and Lab), Application Development Lab.
 
-## Courses at United International University
+## Teaching Courses at United International University (As a Faculty)
 * Summer 2017: Database Management System (Theory and Lab), Object Oriented Programming (Theory and Lab).
 * Spring 2017: Mobile Application Development, Object Oriented Programming (Theory and Lab).
 * Fall 2016: Mobile Application Development, Object Oriented Programming (Theory and Lab), Advanced Object Oriented Programming.
