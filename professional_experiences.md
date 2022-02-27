@@ -13,7 +13,8 @@ order: 5
   >* Graduate  Research Student
   
 * **Amazon Alexa AI [May 2021 - August 2021]**
-  >* Developed A Vocabulary-Free Multilingual Neural Tokenizer for End-to-End Task Learning
+  >* Applied Scientist Intern 
+  * Developed A Vocabulary-Free Multilingual Neural Tokenizer for End-to-End Task Learning
 
 * **University of Dhaka  [March 2017 - August 2019]**
 
