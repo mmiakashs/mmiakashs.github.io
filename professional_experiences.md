@@ -9,7 +9,13 @@ order: 5
 ---
 
 ## Professional Experience
-* **University of Dhaka  [March 2017 - Present]**
+* **University of Virginia [August 2019 - Present]**
+  >* Graduate  Research Student
+  
+* **Amazon Alexa AI [May 2021 - August 2021]**
+  >* Developed A Vocabulary-Free Multilingual Neural Tokenizer for End-to-End Task Learning
+
+* **University of Dhaka  [March 2017 - August 2019]**
 
   >* LECTURER(Full-time), DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING [September 2017 - Present]
   * Part-time LECTURER, DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING [March 2017 - August 2017]
