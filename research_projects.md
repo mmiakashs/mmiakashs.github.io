@@ -4,7 +4,7 @@ title: Research Projects
 description: >
   Md Mofijul Islam's Research.
 hide_description: true
-menu: true
+menu: false
 order: 3
 ---
 
