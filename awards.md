@@ -7,13 +7,17 @@ hide_description: true
 menu: true
 order: 6
 ---
-## Academic / Research
-* UVA Engineering Endowed Fellowship
-* UVA Bicentennial Fellowship 
-* NVIDIA GPU Grant for a Multimodal Learning Research Project.
+
+## Research Grants
+* NVIDIA GPU Grant for Academic Research Project: Multimodal Representational Learning Approach (2018)
+* Research grant from University Grants Commission (UGC), Bangladesh Government for a research project: Domain
+Adaptive Transfer Learning for Multi-task Learning Model (2018-19)
+
+## Academic Fellowship / Awards
+* Association for the Advancement of Artificial Intelligence (AAAI) Conference Scholarship (2022)
+* Engineering Endowed Fellowship, University of Virginia (2021-2022)
+* Bicentennial Fellowship, University of Virginia (2019-20)
 * Fellowship to attend Cornell, Maryland, Max Planck Pre-doctoral School 2019 (05-10 August 2019)
-* Received a research grant from University Grants Commission(UGC), Bangladesh Government for a research project. 
-  > Domain Adaptive Transfer Learning for Multi-task Learning Model
 * Dean’s Award (Session 2012-13), University of Dhaka, Bangladesh.
   > In recognition of the Outstanding Scholastic Achievement in Bachelor of Science in Computer Science and Engineering. This award was given for securing 3.94(Out of 4) and Second in Class position.
 
