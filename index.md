@@ -25,6 +25,7 @@ I love to write code with background music and participate in hackathons, progra
 -->
 
 ## Updates
+* 22 March 2022: Our work "MAVEN: A Memory Augmented Recurrent Approach for Multimodal Fusion," has been accepted in IEEE Transactions on Multimedia [[Video Presentation]](https://youtu.be/NLyVePqaXSg)
 * 07-10 March 2020: Student Volunteer at HRI-2020
 * 04 Feb 2022: Received Association for the Advancement of Artificial Intelligence (AAAI) Conference Scholarship (2022)
 * 03 Dec 2021: Our work "iSpy a Humorous Robot: Evaluating the Perceptions of Humor Types in a Robot Partner," has been accepted in AAAI Spring 2022 Symposium
