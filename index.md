@@ -25,6 +25,7 @@ I love to write code with background music and participate in hackathons, progra
 -->
 
 ## Updates
+* 06 March 2022: Our work "M3Sense: Affect-Agnostic Multitask Representation Learning using Multimodal Wearable Sensors," has been accepted in ACM IMWUT/Ubicomp 2022  [[Video Presentation]](https://youtu.be/shGyn8bTTTQ)
 * 28 March 2022: Our work "A Vocabulary-Free Multilingual Neural Tokenizer for End-to-End Task Learning" has been accepted in ACL Workshop on Representation Learning for NLP 2022. 
 * 22 March 2022: Our work "MAVEN: A Memory Augmented Recurrent Approach for Multimodal Fusion," has been accepted in IEEE Transactions on Multimedia [[Video Presentation]](https://youtu.be/NLyVePqaXSg)
 * 07-10 March 2020: Student Volunteer at HRI-2020
