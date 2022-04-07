@@ -9,8 +9,9 @@ order: 4
 ---
 <a href="https://scholar.google.com/citations?hl=en&user=FYy4ZxYAAAAJ" target="_blank">Google Scholar Profile</a><a href="https://www.researchgate.net/profile/Md_Mofijul_Islam" target="_blank">ResearchGate Profile</a>
 
-## Journal Publications (Peer Reviewed):
+## Journal Publications (Peer Reviewed): [\*: Equal Contribution]
 * **Md Mofijul Islam**, Mohammad Yasar, Tariq Iqbal, ["MAVEN: A Memory Augmented Recurrent Approach for Multimodal Fusion, is accepted"](), Accepted in IEEE Transaction on Multimedia 2022. [Video Demo](https://youtu.be/NLyVePqaXSg)
+* Sirat Samyoun, **Md Mofijul Islam** <b> \* </b>, Tariq Iqbal, John Stankovic "M3Sense: Affect-Agnostic Multitask Representation Learning using Multimodal Wearable Sensors," Accepted in ACM IMWUT/Ubicomp 2022  [[Video Presentation]](https://youtu.be/shGyn8bTTTQ)
 * **Md Mofijul Islam**, Tariq Iqbal, ["Multi-GAT: A Graphical Attention-based Hierarchical Multimodal Representation Learning Approach for Human Activity Recognition"](https://ieeexplore.ieee.org/document/9354900), Accepted in IEEE Robotics and Automation Letters (RA-L) 2021. [Paper](https://ieeexplore.ieee.org/document/9354900)  [Video Demo](https://youtu.be/Bsbn4pN6Oo4)
 * **Md Mofijul Islam**, Sanjay Saha, Md Mahmudur Rahman, Swakkhar Shatabda, Dewan Md Farid, Abdollah Dehzangi, ["iProtGly-SS: Identifying Protein Lysine Glycation Sites Using Sequence and Structure Based Features"](https://www.ncbi.nlm.nih.gov/pubmed/29675975). Accepted in Proteins Journal-2018. [Source Code, Data, Web Application](http://brl.uiu.ac.bd/iprotgly-ss/)
 * **Md Mofijul Islam**, Md. Abdur Razzaque, Mohammad Mehedi Hassan, Walaa Nagy, Biao Song, ["Mobile Cloud-Based Big Healthcare Data Processing in Smart Cities."](http://ieeexplore.ieee.org/document/7933943/) Accepted in IEEE Access Journal 2017.
