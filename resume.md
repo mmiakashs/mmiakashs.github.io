@@ -11,4 +11,10 @@ order: 8
 ---
 <h3>I am on the job market !!!</h3>
 
+[Full CV](https://drive.google.com/file/d/0B-unRFQC889GWk1WTnVHNnVCelk/preview)
+
+[Short Resume](https://drive.google.com/file/d/1xHxfeIkF0bClTpR-ws97Bfwnr2jt4XLT/view?usp=sharing)
+
+<h3> CV: </h3>
+
 <iframe src="https://drive.google.com/file/d/0B-unRFQC889GWk1WTnVHNnVCelk/preview" width="130%" height="530"></iframe>
