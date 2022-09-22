@@ -7,10 +7,14 @@ hide_description: true
 menu: true
 order: 4
 ---
-<a href="https://scholar.google.com/citations?hl=en&user=FYy4ZxYAAAAJ" target="_blank">Google Scholar Profile</a><a href="https://www.researchgate.net/profile/Md_Mofijul_Islam" target="_blank">ResearchGate Profile</a>
+<a href="https://scholar.google.com/citations?hl=en&user=FYy4ZxYAAAAJ" target="_blank">Google Scholar Profile</a> | <a href="https://www.researchgate.net/profile/Md_Mofijul_Islam" target="_blank">ResearchGate Profile</a>
+
+## Under Review [*: Equal Contribution]
+* **Md Mofijul Islam**, Alexi Gladstone, Tariq Iqbal, "PATRON: Perspective-aware Multitask Model for Referring Expression Grounding using Embodied Multimodal Cues," AAAI-2023
+* Mohammad Samin Yasar <b> \* </b>, **Md Mofijul Islam** <b> \* </b>, Tariq Iqbal, "IMPRINT: Interactional Dynamics-aware Motion Prediction in Teams using Multimodal Context," ACM Transaction on Human-Robot Interaction
 
 ## Journal Publications (Peer Reviewed): [\*: Equal Contribution]
-* **Md Mofijul Islam**, Mohammad Yasar, Tariq Iqbal, ["MAVEN: A Memory Augmented Recurrent Approach for Multimodal Fusion, is accepted"](), Accepted in IEEE Transaction on Multimedia 2022. [Video Demo](https://youtu.be/NLyVePqaXSg)
+* **Md Mofijul Islam**, Mohammad Samin Yasar, Tariq Iqbal, ["MAVEN: A Memory Augmented Recurrent Approach for Multimodal Fusion, is accepted"](), Accepted in IEEE Transaction on Multimedia 2022. [Video Demo](https://youtu.be/NLyVePqaXSg)
 * Sirat Samyoun <b> \* </b>, **Md Mofijul Islam** <b> \* </b>, Tariq Iqbal, John Stankovic "M3Sense: Affect-Agnostic Multitask Representation Learning using Multimodal Wearable Sensors," Accepted in ACM IMWUT/Ubicomp 2022  [[Video Presentation]](https://youtu.be/shGyn8bTTTQ)
 * **Md Mofijul Islam**, Tariq Iqbal, ["Multi-GAT: A Graphical Attention-based Hierarchical Multimodal Representation Learning Approach for Human Activity Recognition"](https://ieeexplore.ieee.org/document/9354900), Accepted in IEEE Robotics and Automation Letters (RA-L) 2021. [Paper](https://ieeexplore.ieee.org/document/9354900)  [Video Demo](https://youtu.be/Bsbn4pN6Oo4)
 * **Md Mofijul Islam**, Sanjay Saha, Md Mahmudur Rahman, Swakkhar Shatabda, Dewan Md Farid, Abdollah Dehzangi, ["iProtGly-SS: Identifying Protein Lysine Glycation Sites Using Sequence and Structure Based Features"](https://www.ncbi.nlm.nih.gov/pubmed/29675975). Accepted in Proteins Journal-2018. [Source Code, Data, Web Application](http://brl.uiu.ac.bd/iprotgly-ss/)
@@ -18,6 +22,7 @@ order: 4
 * **Md Mofijul Islam**, Md. Ahasanuzzaman, Md. Abdur Razzaque, M. M. Hassan, Abdulhameed Alelaiwi, Yang Xian, [Target coverage through distributed clustering in directional sensor networks.](http://link.springer.com/article/10.1186/s13638-015-0394-2) EURASIP J. Wireless Communications and Networking. 167: (2015).
 
 ## Conference Publications (Peer Reviewed):
+* **Md Mofijul Islam**, Reza Manuel Mirzaiee, Alexi Gladstone, Haley N Green, Tariq Iqbal, ["CAESAR: An Embodied Simulator for Generating Multimodal Referring Expression Datasets,"](https://openreview.net/forum?id=SKE_J-B3e9X) Accepted in NeurIPS 2022 (Track on Datasets and Benchmarks)
 * **Md Mofijul Islam**, Gustavo Aguilar, Pragaash Ponnusamy, Clint Solomon Mathialagan, Chengyuan Ma, Chenlei Guo, ["A Vocabulary-Free Multilingual Neural Tokenizer for End-to-End Task Learning"](https://arxiv.org/abs/2204.10815) Accepted in ACL Workshop on Representation Learning for NLP 2022 [[Paper]](https://arxiv.org/abs/2204.10815)
 * **Md Mofijul Islam**, Tariq Iqbal, "MuMu: Cooperative Multitask Learning-based Guided Multimodal Fusion" Accepted in Association for the Advancement of Artificial Intelligence (AAAI), 2022 **[Main Track: Oral; Oral Acceptance Rate: 4.6%]** [[Pre-print]](https://github.com/mmiakashs/mmiakashs.github.io/blob/master/assets/Mofijul_AAAI_2022_MuMu_Preprint.pdf) [[Video Presentation]](https://recorder-v3.slideslive.com/?share=59838&s=ee1395b9-974b-4597-b22c-d2c071b1496d) [[Flash Talk]](https://recorder-v3.slideslive.com/?share=59840&s=a3ef2807-65a2-4d0e-9bf8-b46d3c6bc66c)
 * Haley N Green, **Md Mofijul Islam**, Shahira Ali, Tariq Iqbal, "Who's Laughing NAO? Examining Perceptions of Failure in a Humorous Robot Partner" Accepted in Human Robot Interaction (HRI) 2022 **[Acceptance Rate: 24.8%]**
