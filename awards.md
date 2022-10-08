@@ -14,6 +14,7 @@ order: 6
 Adaptive Transfer Learning for Multi-task Learning Model (2018-19)
 
 ## Academic Fellowship / Awards
+* NeurIPS-2022 Scholar Award.
 * Association for the Advancement of Artificial Intelligence (AAAI) Conference Scholarship (2022)
 * Engineering Endowed Fellowship, University of Virginia (2021-2022)
 * Bicentennial Fellowship, University of Virginia (2019-20)
