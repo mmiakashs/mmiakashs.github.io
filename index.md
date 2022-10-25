@@ -29,7 +29,7 @@ I love to write code with background music and participate in hackathons, progra
 ## Updates
 <h4> I am on the job market !!!</h4>
 
-* 07 Oct 2022: **I have receive NeurIPS-2022 Scholar Award !!!**
+* 07 Oct 2022: **I have received NeurIPS-2022 Scholar Award !!!**
 * 16 Sep 2022: Excited !!! Our work "CAESAR: An Embodied Simulator for Generating Multimodal Referring Expression Datasets ," has been accepted in NeurIPS 2022 (Track on Datasets and Benchmarks)  [[Paper]](https://openreview.net/forum?id=SKE_J-B3e9X)
 * 11 Sep 2022: I am attending Ubicomp-2022 to present our work [M3Sense](https://dl.acm.org/doi/abs/10.1145/3534600) !!!
 * 06 March 2022: Our work "M3Sense: Affect-Agnostic Multitask Representation Learning using Multimodal Wearable Sensors," has been accepted in ACM IMWUT/Ubicomp 2022  [[Video Presentation]](https://youtu.be/shGyn8bTTTQ)
