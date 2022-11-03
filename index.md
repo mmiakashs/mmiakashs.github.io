@@ -29,6 +29,7 @@ I love to write code with background music and participate in hackathons, progra
 ## Updates
 <h4> I am on the job market !!!</h4>
 
+* 02 Nov 2022: **Excited!!! I received UVA Engineering Endowed Fellowship** (Fall 2022 - Spring 2023)
 * 07 Oct 2022: **I have received NeurIPS-2022 Scholar Award !!!**
 * 16 Sep 2022: Excited !!! Our work "CAESAR: An Embodied Simulator for Generating Multimodal Referring Expression Datasets ," has been accepted in NeurIPS 2022 (Track on Datasets and Benchmarks)  [[Paper]](https://openreview.net/forum?id=SKE_J-B3e9X)
 * 11 Sep 2022: I am attending Ubicomp-2022 to present our work [M3Sense](https://dl.acm.org/doi/abs/10.1145/3534600) !!!
@@ -40,7 +41,7 @@ I love to write code with background music and participate in hackathons, progra
 * 03 Dec 2021: Our work "iSpy a Humorous Robot: Evaluating the Perceptions of Humor Types in a Robot Partner," has been accepted in AAAI Spring 2022 Symposium
 * 01 Dec 2021: Our work "MuMu: Cooperative Multitask Learning-based Guided Multimodal Fusion," has been accepted in AAAI (Main Track: Oral) [[Pre-print]](https://github.com/mmiakashs/mmiakashs.github.io/blob/master/assets/Mofijul_AAAI_2022_MuMu_Preprint.pdf) [[Video Presentation]](https://recorder-v3.slideslive.com/?share=59838&s=ee1395b9-974b-4597-b22c-d2c071b1496d) [[Flash Talk]](https://recorder-v3.slideslive.com/?share=59840&s=a3ef2807-65a2-4d0e-9bf8-b46d3c6bc66c)
 * Nov 29 2021: Our work "Who's Laughing NAO? Examining Perceptions of Failure in a Humorous Robot Partner," has been accepted in HRI-2022
-* 04 Oct 2021: Excited!!! I received UVA Engineering Endowed Fellowship
+* 04 Oct 2021: Excited!!! I received UVA Engineering Endowed Fellowship (2021-2022)
 * 03 May 2021: I will join Amazon Alexa AI team as summer-2021 Applied Scientist Intern**
 * 02 May 2021: I will volunteer ICLR-2021
 * 29 Jan 2021: Our work, "[Multi-GAT: A Graphical Attention-based Hierarchical Multimodal Representation Learning Approach for Human Activity Recognition](https://ieeexplore.ieee.org/document/9354900)", has been accepted in IEEE Robotics and Automation Letters (RA-L). [[Paper]](https://ieeexplore.ieee.org/document/9354900) [[Video Demo]](https://youtu.be/Bsbn4pN6Oo4)
