@@ -29,7 +29,7 @@ I love to write code with background music and participate in hackathons, progra
 ## Updates
 <h4> I am on the job market !!!</h4>
 
-* 05 Dec 2022: **My thesis proposal has been accepted to the WACV 2023 Doctoral Consortium!**
+* 05 Dec 2022: **My Ph.D. thesis has been accepted to the WACV 2023 Doctoral Consortium and received award to attend!**
 * 02 Nov 2022: **Excited!!! I received UVA Engineering Endowed Fellowship** (Fall 2022 - Spring 2023)
 * 07 Oct 2022: **I have received NeurIPS-2022 Scholar Award !!!**
 * 16 Sep 2022: Excited !!! Our work "CAESAR: An Embodied Simulator for Generating Multimodal Referring Expression Datasets ," has been accepted in NeurIPS 2022 (Track on Datasets and Benchmarks)  [[Paper]](https://openreview.net/forum?id=SKE_J-B3e9X)
