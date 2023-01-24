@@ -10,8 +10,9 @@ order: 4
 <a href="https://scholar.google.com/citations?hl=en&user=FYy4ZxYAAAAJ" target="_blank">Google Scholar Profile</a> | <a href="https://www.researchgate.net/profile/Md_Mofijul_Islam" target="_blank">ResearchGate Profile</a>
 
 ## Under Review [*: Equal Contribution]
-* **Md Mofijul Islam**, Alexi Gladstone, Tariq Iqbal, "PATRON: Perspective-aware Multitask Model for Referring Expression Grounding using Embodied Multimodal Cues," AAAI-2023
+* **Md Mofijul Islam**, Alexi Gladstone, Tariq Iqbal, "EQA-MX: Embodied Question Answering using Multimodal Human Expression," CVPR-2023
 * Mohammad Samin Yasar <b> \* </b>, **Md Mofijul Islam** <b> \* </b>, Tariq Iqbal, "IMPRINT: Interactional Dynamics-aware Motion Prediction in Teams using Multimodal Context," ACM Transaction on Human-Robot Interaction
+* 
 
 ## Journal Publications (Peer Reviewed): [\*: Equal Contribution]
 * **Md Mofijul Islam**, Mohammad Samin Yasar, Tariq Iqbal, ["MAVEN: A Memory Augmented Recurrent Approach for Multimodal Fusion, is accepted"](), Accepted in IEEE Transaction on Multimedia 2022. [Video Demo](https://youtu.be/NLyVePqaXSg)
@@ -22,6 +23,8 @@ order: 4
 * **Md Mofijul Islam**, Md. Ahasanuzzaman, Md. Abdur Razzaque, M. M. Hassan, Abdulhameed Alelaiwi, Yang Xian, [Target coverage through distributed clustering in directional sensor networks.](http://link.springer.com/article/10.1186/s13638-015-0394-2) EURASIP J. Wireless Communications and Networking. 167: (2015).
 
 ## Conference Publications (Peer Reviewed):
+* Riashat Islam, Hongyu Zang, Manan Tomar, Aniket Didolkar, **Md Mofijul Islam**, Samin Yeasar Arnob, Tariq Iqbal, Xin Li, Anirudh Goyal, Nicolas Heess, Alex Lamb, "Representation Learning in Deep RL via Discrete Information Bottleneck," AISTATS-2023
+* **Md Mofijul Islam**, Alexi Gladstone, Tariq Iqbal, "PATRON: Perspective-aware Multitask Model for Referring Expression Grounding using Embodied Multimodal Cues," AAAI-2023 **[Main Track Acceptance Rate: 19.6%]**
 * **Md Mofijul Islam**, Reza Manuel Mirzaiee, Alexi Gladstone, Haley N Green, Tariq Iqbal, ["CAESAR: An Embodied Simulator for Generating Multimodal Referring Expression Datasets,"](https://openreview.net/forum?id=SKE_J-B3e9X) Accepted in NeurIPS 2022 (Track on Datasets and Benchmarks)
 * **Md Mofijul Islam**, Gustavo Aguilar, Pragaash Ponnusamy, Clint Solomon Mathialagan, Chengyuan Ma, Chenlei Guo, ["A Vocabulary-Free Multilingual Neural Tokenizer for End-to-End Task Learning"](https://arxiv.org/abs/2204.10815) Accepted in ACL Workshop on Representation Learning for NLP 2022 [[Paper]](https://arxiv.org/abs/2204.10815)
 * **Md Mofijul Islam**, Tariq Iqbal, "MuMu: Cooperative Multitask Learning-based Guided Multimodal Fusion" Accepted in Association for the Advancement of Artificial Intelligence (AAAI), 2022 **[Main Track: Oral; Oral Acceptance Rate: 4.6%]** [[Pre-print]](https://github.com/mmiakashs/mmiakashs.github.io/blob/master/assets/Mofijul_AAAI_2022_MuMu_Preprint.pdf) [[Video Presentation]](https://recorder-v3.slideslive.com/?share=59838&s=ee1395b9-974b-4597-b22c-d2c071b1496d) [[Flash Talk]](https://recorder-v3.slideslive.com/?share=59840&s=a3ef2807-65a2-4d0e-9bf8-b46d3c6bc66c)
