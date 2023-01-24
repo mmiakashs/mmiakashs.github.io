@@ -12,7 +12,6 @@ order: 4
 ## Under Review [*: Equal Contribution]
 * **Md Mofijul Islam**, Alexi Gladstone, Tariq Iqbal, "EQA-MX: Embodied Question Answering using Multimodal Human Expression," CVPR-2023
 * Mohammad Samin Yasar <b> \* </b>, **Md Mofijul Islam** <b> \* </b>, Tariq Iqbal, "IMPRINT: Interactional Dynamics-aware Motion Prediction in Teams using Multimodal Context," ACM Transaction on Human-Robot Interaction
-* 
 
 ## Journal Publications (Peer Reviewed): [\*: Equal Contribution]
 * **Md Mofijul Islam**, Mohammad Samin Yasar, Tariq Iqbal, ["MAVEN: A Memory Augmented Recurrent Approach for Multimodal Fusion, is accepted"](), Accepted in IEEE Transaction on Multimedia 2022. [Video Demo](https://youtu.be/NLyVePqaXSg)
