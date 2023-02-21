@@ -29,7 +29,8 @@ I love to write code with background music and participate in hackathons, progra
 ## Updates
 <h4> I am on the job market !!!</h4>
 
-* 20 Jan 2023: **Excited !!! Our work "Representation Learning in Deep RL via Discrete Information Bottleneck," has been accepted in AISTATS 2023)  [[Paper]](https://arxiv.org/abs/2212.13835)**
+* 10 Feb 2023: **Excited! I have been accepted to Google’s Computer Science Research Mentorship Program (CSRMP)**
+* 20 Jan 2023: **Our work "Representation Learning in Deep RL via Discrete Information Bottleneck," has been accepted in AISTATS 2023)  [[Paper]](https://arxiv.org/abs/2212.13835)**
 * 05 Dec 2022: **My Ph.D. thesis has been accepted to the WACV 2023 Doctoral Consortium and received award to attend!**
 * 02 Nov 2022: **Excited!!! I received UVA Engineering Endowed Fellowship** (Fall 2022 - Spring 2023)
 * 07 Oct 2022: I have received NeurIPS-2022 Scholar Award !!!
