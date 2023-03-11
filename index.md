@@ -9,7 +9,7 @@ menu: 1
 ---
 [News & Updates](#updates)
 
-<h2> I am on the job market !!! Actively looking for Research Scientist possition</h2>
+<h2> I am on the job market !!! Actively looking for Research Scientist position</h2>
 
 I am Md Mofijul (Akash) Islam, PhD student, University of Virginia. I am an ESE-UVA Bicentennial Fellow (2019-2020). I am working at the [Link Lab](https://engineering.virginia.edu/link-lab-0) with [Prof. Tariq Iqbal](http://www.tiqbal.com/). Previously I was working as a Lecturer at the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/). I completed M.S. and B.Sc(Hons) in Computer Science and Engineering from the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/).
 
@@ -31,6 +31,7 @@ I love to write code with background music and participate in hackathons, progra
 
 * 10 Feb 2023: **Excited! I have been accepted to Google’s Computer Science Research Mentorship Program (CSRMP)**
 * 20 Jan 2023: **Our work "Representation Learning in Deep RL via Discrete Information Bottleneck," has been accepted in AISTATS 2023)  [[Paper]](https://arxiv.org/abs/2212.13835)**
+* 21 Dec 2022: **Received AAAI-23 scholarship**
 * 05 Dec 2022: **My Ph.D. thesis has been accepted to the WACV 2023 Doctoral Consortium and received award to attend!**
 * 02 Nov 2022: **Excited!!! I received UVA Engineering Endowed Fellowship** (Fall 2022 - Spring 2023)
 * 07 Oct 2022: I have received NeurIPS-2022 Scholar Award !!!
