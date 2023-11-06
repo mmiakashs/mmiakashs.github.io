@@ -25,7 +25,6 @@ I love to write code with background music and participate in hackathons, progra
 -->
 
 ## Updates
-<h4> I am on the job market !!!</h4>
 
 * 10 Feb 2023: **Excited! I have been accepted to Google’s Computer Science Research Mentorship Program (CSRMP)**
 * 20 Jan 2023: **Our work "Representation Learning in Deep RL via Discrete Information Bottleneck," has been accepted in AISTATS 2023)  [[Paper]](https://arxiv.org/abs/2212.13835)**
