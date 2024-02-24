@@ -9,7 +9,7 @@ menu: 1
 ---
 [News & Updates](#updates)
 
-I am Md Mofijul (Akash) Islam, PhD student, University of Virginia. I am an ESE-UVA Bicentennial Fellow (2019-2020). I am working at the [Link Lab](https://engineering.virginia.edu/link-lab-0) with [Prof. Tariq Iqbal](http://www.tiqbal.com/). Previously I was working as a Lecturer at the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/). I completed M.S. and B.Sc(Hons) in Computer Science and Engineering from the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/).
+I am Md Mofijul (Akash) Islam, Applied Scientist II, AWS Generative AI Innovation Center. I completed my Ph.D. at the University of Virginia (Thesis: Multimodal and Multitask Representation Learning for Perceiving Human Behavior and Embodied). I was an ESE-UVA Bicentennial Fellow (2019-2020). I worked at the [Link Lab](https://engineering.virginia.edu/link-lab-0) with [Prof. Tariq Iqbal](http://www.tiqbal.com/). Previously, I worked as a Lecturer at the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/). I completed my M.S. and B.Sc(Hons) in Computer Science and Engineering from the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/).
 
 My research interest broadly lies at the intersection of multimodal and multi-task learning, self-supervised learning, and Human-Centered AI. I also explore human/animal multisensory systems from a neuroscience perspective to design multimodal learning approaches.
 
@@ -26,11 +26,14 @@ I love to write code with background music and participate in hackathons, progra
 
 ## Updates
 
-* 10 Feb 2023: **Excited! I have been accepted to Google’s Computer Science Research Mentorship Program (CSRMP)**
-* 20 Jan 2023: **Our work "Representation Learning in Deep RL via Discrete Information Bottleneck," has been accepted in AISTATS 2023)  [[Paper]](https://arxiv.org/abs/2212.13835)**
-* 21 Dec 2022: **Received AAAI-23 scholarship**
-* 05 Dec 2022: **My Ph.D. thesis has been accepted to the WACV 2023 Doctoral Consortium and received award to attend!**
-* 02 Nov 2022: **Excited!!! I received UVA Engineering Endowed Fellowship** (Fall 2022 - Spring 2023)
+* 16 Jan 2024: **Super Excited!!! [EQA-MX is accepted as SPOTLIGHT in ICLR-2024](https://openreview.net/forum?id=7gUrYE50Rb)**
+* 06 Nov 2023: **Joined AWS Generative AI Innovation Center as Applied Scientist II**
+* 30 June 2023: **PhD Done !!!!!!!**
+* 10 Feb 2023: Excited! I have been accepted to Google’s Computer Science Research Mentorship Program (CSRMP)
+* 20 Jan 2023: Our work "Representation Learning in Deep RL via Discrete Information Bottleneck," has been accepted in AISTATS 2023)  [[Paper]](https://arxiv.org/abs/2212.13835)
+* 21 Dec 2022: Received AAAI-23 scholarship
+* 05 Dec 2022: My Ph.D. thesis has been accepted to the WACV 2023 Doctoral Consortium and received award to attend!
+* 02 Nov 2022: Excited!!! I received UVA Engineering Endowed Fellowship** (Fall 2022 - Spring 2023)
 * 07 Oct 2022: I have received NeurIPS-2022 Scholar Award !!!
 * 16 Sep 2022: Excited !!! Our work "CAESAR: An Embodied Simulator for Generating Multimodal Referring Expression Datasets ," has been accepted in NeurIPS 2022 (Track on Datasets and Benchmarks)  [[Paper]](https://openreview.net/forum?id=SKE_J-B3e9X)
 * 11 Sep 2022: I am attending Ubicomp-2022 to present our work [M3Sense](https://dl.acm.org/doi/abs/10.1145/3534600) !!!
