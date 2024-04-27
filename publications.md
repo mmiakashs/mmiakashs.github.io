@@ -26,9 +26,11 @@ order: 4
 * **Md Mofijul Islam**, Tariq Iqbal, "MuMu: Cooperative Multitask Learning-based Guided Multimodal Fusion" Accepted in Association for the Advancement of Artificial Intelligence (AAAI), 2022 **[Main Track: Oral; Oral Acceptance Rate: 4.6%]** [[Pre-print]](https://github.com/mmiakashs/mmiakashs.github.io/blob/master/assets/Mofijul_AAAI_2022_MuMu_Preprint.pdf) [[Video Presentation]](https://recorder-v3.slideslive.com/?share=59838&s=ee1395b9-974b-4597-b22c-d2c071b1496d) [[Flash Talk]](https://recorder-v3.slideslive.com/?share=59840&s=a3ef2807-65a2-4d0e-9bf8-b46d3c6bc66c)
 * Haley N Green, **Md Mofijul Islam**, Shahira Ali, Tariq Iqbal, "Who's Laughing NAO? Examining Perceptions of Failure in a Humorous Robot Partner" Accepted in Human Robot Interaction (HRI) 2022 **[Acceptance Rate: 24.8%]**
 * **Md Mofijul Islam**, Tariq Iqbal, "[HAMLET: A Hierarchical Multimodal Attention-based Human Activity Recognition](https://ieeexplore.ieee.org/document/9340987)", accepted in IROS-2020. [PDF](https://arxiv.org/pdf/2008.01148.pdf), [[Video Presentation]](https://youtu.be/BZ7vmwNczSs)
+
 <!--
 * **Md Mofijul Islam**, Amar Debnath, Tahsin Al Sayeed, Md Mahmudur Rahman,Md. Mosaddek Khan, SwakkharShatabda, Anik Islam, ”d-DeVIS: A Gray Box Interpretable Debugging Approach for Deep Sequence Learning Model”, accepted in TENSYMP-2019. [arXiv](https://arxiv.org/abs/1811.08374)
 * Md.Tanvir Alam, **Md Mofijul Islam**, Anik Islam, “LEARN2: An Interactive Guru Assisting to Learn Learning Algo-rithms”, Accepted in TENSYMP 2019 -->
+
 * Amar Debnath, Redoan Rahman, **Md Mofijul Islam**, Md Abdur Razzaque, “A Hierarchical Learning Model for Claim Validation.” Accepted in International Joint Conference on Computational Intelligence (IJCCI) 2018.
 * Md.Tanvir Alam, **Md Mofijul Islam**, “BARD: Bangla Article Classification using a New Comprehensive Dataset.” Accepted at the International Conference on Bangla Speech and Language Processing (ICBSLP) 2018. [Dataset and Source code](https://github.com/tanvirfahim15/BARD-Bangla-Article-Classifier), [Application](http://bard2018.pythonanywhere.com), [Video Demo](https://www.youtube.com/watch?v=vxwSlwaJ5o4)
 
