@@ -7,7 +7,10 @@ hide_description: true
 menu: true
 order: 4
 ---
-<a href="https://scholar.google.com/citations?hl=en&user=FYy4ZxYAAAAJ" target="_blank">Google Scholar Profile</a> | <a href="https://www.researchgate.net/profile/Md_Mofijul_Islam" target="_blank">ResearchGate Profile</a>
+<a href="https://scholar.google.com/citations?hl=en&user=FYy4ZxYAAAAJ" target="_blank">Google Scholar Profile</a> 
+
+<!-- | <a href="https://www.researchgate.net/profile/Md_Mofijul_Islam" target="_blank">ResearchGate Profile</a>
+-->
 
 ## Under Review [*: Equal Contribution]
 * **Md Mofijul Islam**, Alexi Gladstone, Ganesh Nanduru, Sujan Sarker, Md Fahim, Aman Chadha, Tariq Iqbal, ``Embodied Referring Expression Comprehension Through Multimodal Residual Learning'', ECCV-2024
