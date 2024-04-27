@@ -30,9 +30,10 @@ I love to write code with background music and participate in hackathons, progra
 
 * 16 Jan 2024: **Super Excited!!! [EQA-MX is accepted as SPOTLIGHT in ICLR-2024](https://openreview.net/forum?id=7gUrYE50Rb)**
 * 06 Nov 2023: **Joined AWS Generative AI Innovation Center as Applied Scientist II**
+* 17 July 2023: **Joined Amazon Alexa AI team as Applied Scientist II Intern**
 * 30 June 2023: **PhD Done !!!!!!!**
 * 10 Feb 2023: Excited! I have been accepted to Google’s Computer Science Research Mentorship Program (CSRMP)
-* 20 Jan 2023: Our work "Representation Learning in Deep RL via Discrete Information Bottleneck," has been accepted in AISTATS 2023)  [[Paper]](https://arxiv.org/abs/2212.13835)
+* 20 Jan 2023: Our work, "Representation Learning in Deep RL via Discrete Information Bottleneck," has been accepted in AISTATS 2023)  [[Paper]](https://arxiv.org/abs/2212.13835)
 * 21 Dec 2022: Received AAAI-23 scholarship
 * 05 Dec 2022: My Ph.D. thesis has been accepted to the WACV 2023 Doctoral Consortium and received award to attend!
 * 02 Nov 2022: Excited!!! I received UVA Engineering Endowed Fellowship** (Fall 2022 - Spring 2023)
