@@ -9,7 +9,12 @@ order: 5
 ---
 
 ## Professional Experience
-* **University of Virginia [August 2019 - Present]**
+* **AWS  AI [Nov 2023 - present]**
+  Tech Lead, Applied Scientist II
+  
+* **Amazon Alexa AI [July 2023 - October 2023]**
+  
+* **University of Virginia [August 2019 - June 2023]**
 
   Graduate  Research Student
   
