@@ -9,7 +9,9 @@ menu: 1
 ---
 [News & Updates](#updates)
 
-I am Md Mofijul (Akash) Islam, Applied Scientist II, AWS Generative AI Innovation Center. I completed my Ph.D. at the University of Virginia (Thesis: Multimodal and Multitask Representation Learning for Perceiving Human Behavior and Embodied). I was an ESE-UVA Bicentennial Fellow (2019-2020). I worked at the [Link Lab](https://engineering.virginia.edu/link-lab-0) with [Prof. Tariq Iqbal](http://www.tiqbal.com/). Previously, I worked as a Lecturer at the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/). I completed my M.S. and B.Sc(Hons) in Computer Science and Engineering from the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/).
+I am Md Mofijul Islam, Applied Scientist II and Tech Lead at the AWS Generative AI Innovation Center. I lead customer-centric research projects by advancing research in generative AI, large language models (LLM), code generation, multi-agent systems, and multimodal learning.
+
+I completed my Ph.D. at the University of Virginia (Thesis: Multimodal and Multitask Representation Learning for Perceiving Human Behavior and Embodied). I was an ESE-UVA Bicentennial Fellow (2019-2020). I worked at the [Link Lab](https://engineering.virginia.edu/link-lab-0) with [Prof. Tariq Iqbal](http://www.tiqbal.com/). Previously, I worked as a Lecturer at the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/). I completed my M.S. and B.Sc(Hons) in Computer Science and Engineering from the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/).
 
 My research interest broadly lies at the intersection of multimodal and multi-task learning, self-supervised learning, and Human-Centered AI. I also explore human/animal multisensory systems from a neuroscience perspective to design multimodal learning approaches.
 
