@@ -9,9 +9,6 @@ order: 4
 ---
 <a href="https://scholar.google.com/citations?hl=en&user=FYy4ZxYAAAAJ" target="_blank">Google Scholar Profile</a> 
 
-<!-- | <a href="https://www.researchgate.net/profile/Md_Mofijul_Islam" target="_blank">ResearchGate Profile</a>
--->
-
 ## Under Review [*: Equal Contribution]
 * **Md Mofijul Islam**, Alexi Gladstone, Ganesh Nanduru, Sujan Sarker, Md Fahim, Aman Chadha, Tariq Iqbal, ``Embodied Referring Expression Comprehension Through Multimodal Residual Learning'', ECCV-2024
 * A. G. Chowdhury, **Md Mofijul Islam**, V. Kumar, F. H. Shezan, V. Kumar, V. Jain, A. Chadha, ``Breaking Down the Defenses: A Comparative Survey of Attacks on Large Language Models'', ACL-2024 
