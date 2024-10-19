@@ -28,6 +28,7 @@ I love to write code with background music and participate in hackathons, progra
 
 ## Updates
 
+* 16 Oct 2024: Our work on code generation is featured in [AWS Blog](https://aws.amazon.com/blogs/machine-learning/how-sailpoint-uses-anthropics-claude-on-amazon-bedrock-to-automatically-generate-typescript-code-for-saas-connectors/)
 * 16 Jan 2024: **Super Excited!!! [EQA-MX is accepted as SPOTLIGHT in ICLR-2024](https://openreview.net/forum?id=7gUrYE50Rb)**
 * 06 Nov 2023: **Joined AWS Generative AI Innovation Center as Applied Scientist II**
 * 17 July 2023: **Joined Amazon Alexa AI team as Applied Scientist II Intern**
