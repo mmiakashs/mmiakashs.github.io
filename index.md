@@ -9,7 +9,7 @@ menu: 1
 ---
 [News & Updates](#updates)
 
-I am Md Mofijul Islam, Applied Scientist II and Tech Lead at the AWS Generative AI Innovation Center. I lead customer-centric research projects by advancing research in generative AI, large language models (LLM), code generation, multi-agent systems, and multimodal learning.
+I am Md Mofijul Islam, Applied Scientist II and Tech Lead at the AWS GenAI. I lead customer-centric research projects by advancing research in generative AI, large language models (LLM), code generation, multi-agent systems, and multimodal learning.
 
 My research interest broadly lies at the intersection of Multimodal and Multi-Task Learning, Multimodal LLM, Self-Supervised Learning, Generative AI, and Human-Centered AI. I also explore human/animal multisensory systems from a neuroscience perspective to design multimodal learning approaches.
 
