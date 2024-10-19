@@ -9,7 +9,7 @@ order: 5
 ---
 
 ## Professional Experience
-* **AWS  AI [Nov 2023 - present]**
+* **AWS  GenAI [Nov 2023 - present]**
   
   Tech Lead, Applied Scientist II
   
