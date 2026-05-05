@@ -9,6 +9,12 @@ order: 3
 ---
 
 Table of Contents
+  * [Generative AI and Large Language Models](#generative-ai-and-large-language-models)
+    - [Multi-Agent Reasoning](#multi-agent-reasoning)
+    - [Post-Training and Finetuning of Multimodal LLMs](#post-training-and-finetuning-of-multimodal-llms)
+    - [Synthetic Data Generation](#synthetic-data-generation)
+    - [Agentic Document Intelligence](#agentic-document-intelligence)
+    - [Code Generation](#code-generation)
   * [Artificial Inteligence and Machine learning](#artificial-intelligence-and-machine-learning)
     - [Multi-modal and Multi-task Learning **\[Grant\]**](#multi-modal-and-multi-task-learning)
       - [Transfer Lerning in Visual Question Answering](#transfer-learning-in-visual-question-answering)
@@ -28,6 +34,44 @@ Table of Contents
     - [Identification of Recombination Hotspot in Genome](#identification-of-recombination-hotspot-in-genome)
   * [Big Graph Query and Mining](#big-graph-query-and-mining)
   * [Mining Spatiotemporal Behavior of Contributors in OpenStreetMap](#mining-spatiotemporal-behavior-of-contributors-in-openstreetmap)
+
+## Generative AI and Large Language Models
+At AWS GenAI, I lead research on the next generation of multimodal LLMs and agentic systems. My focus spans multi-agent reasoning, post-training and finetuning of multimodal LLMs, synthetic data generation, and agentic document intelligence.
+
+  * ## Multi-Agent Reasoning
+    Lead: Md Mofijul Islam, AWS GenAI
+
+    We develop multi-agent reasoning frameworks that plan, search, and coordinate across specialized agents to tackle complex tasks such as scientific discovery, retrosynthesis, document understanding, and compliance validation. Our work combines structured memory, search-based planning, and tool use to move beyond single-pass LLM reasoning toward collaborative agentic inference.
+
+    **Outcome:** [COLM-2026 (RETROAGENT)], [ACL-2026 Demo — IDP Accelerator: Agentic Document Intelligence from Extraction to Compliance Validation], [AWS Blog: Strands AI Agents for GenAI IDP](https://aws.amazon.com/blogs/machine-learning/enhance-document-analytics-with-strands-ai-agents-for-the-genai-idp-accelerator/)
+
+  * ## Post-Training and Finetuning of Multimodal LLMs
+    Lead: Md Mofijul Islam, AWS GenAI
+
+    We develop post-training and finetuning techniques — including supervised finetuning, preference optimization, distillation, and residual multimodal alignment — to adapt multimodal LLMs to high-value downstream tasks across text, vision, and speech. This work underpins several recent publications on scalable learners, multilingual reasoning, speech tokenization, and embodied referring expression comprehension.
+
+    **Outcome:** [ICLR-2026 Oral (Energy-Based Transformers)](https://arxiv.org/abs/2406.08862), [ACL-2026 (Multilingual LLMs)](https://arxiv.org/abs/2510.07877), [EACL-2026 (MATHMIST)](https://arxiv.org/abs/2510.14305), [HRI-2026 (Embodied REC)](https://arxiv.org/abs/2512.06558), [EMNLP-2025 (DM-Codec)](https://arxiv.org/abs/2410.15017), [InterSpeech-2026 (FuseCodec)](https://arxiv.org/abs/2509.11425)
+
+  * ## Synthetic Data Generation
+    Lead: Md Mofijul Islam, AWS GenAI
+
+    Data scarcity and distribution mismatch are core bottlenecks for post-training multimodal and multilingual LLMs. We build synthetic data generation pipelines — including benchmark construction and targeted data curation — that cover low-resource languages, complex document forms, and mathematical reasoning.
+
+    **Outcome:** [ACL-2026 Industry Track (DocSplit)](https://huggingface.co/datasets/amazon/doc_split), [EACL-2026 (MATHMIST)](https://arxiv.org/abs/2510.14305), [ECCV-2026 (BaFCo: Complex Bangla Form Comprehension)]
+
+  * ## Agentic Document Intelligence
+    Lead: Md Mofijul Islam, AWS GenAI
+
+    We build end-to-end agentic systems for intelligent document processing — spanning document packet splitting, multimodal extraction, analytics, and compliance validation — and released an org-wide open-source [GenAI IDP Accelerator](https://github.com/aws-samples/sample-genai-idp) that has contributed millions in ARR.
+
+    **Outcome:** [Open-Source: GenAI IDP Accelerator](https://github.com/aws-samples/sample-genai-idp), [ACL-2026 Industry Track (DocSplit)](https://huggingface.co/datasets/amazon/doc_split), [ACL-2026 Demo (IDP Accelerator)], [AWS Blog: Multimodal Document Processing](https://aws.amazon.com/blogs/machine-learning/accelerate-intelligent-document-processing-with-generative-ai-on-aws/), [AWS Blog: Healthcare Document Comprehension](https://aws.amazon.com/blogs/machine-learning/how-myriad-genetics-achieved-fast-accurate-and-cost-efficient-document-processing-using-the-aws-open-source-generative-ai-intelligent-document-processing-accelerator/)
+
+  * ## Code Generation
+    Lead: Md Mofijul Islam, AWS GenAI
+
+    We develop LLM-powered code generation systems for real-world software engineering workflows — including automated SaaS connector generation and agentic change-request processing for enterprise customers.
+
+    **Outcome:** [AWS Blog: SailPoint TypeScript Code Generation](https://aws.amazon.com/blogs/machine-learning/how-sailpoint-uses-anthropics-claude-on-amazon-bedrock-to-automatically-generate-typescript-code-for-saas-connectors/), [AWS Blog: Agentic Code Generation (Totogi)](https://aws.amazon.com/blogs/machine-learning/how-totogi-automated-change-request-processing-with-totogi-bss-magic-and-amazon-bedrock/), [AWS Blog: LLM-Tools (DXC)](https://aws.amazon.com/blogs/machine-learning/dxc-transforms-data-exploration-for-their-oil-and-gas-customers-with-llm-powered-tools/)
 
 ## Artificial Intelligence and Machine Learning
 I am mainly working in the intersection of theoretical artificial intelligence and practical machine learning approaches. Currently, I am working to develop some learning models to solve problems in the various domain. As mainly I am involved in the design and developing learning model, I collaborate with several domain experts in different fields. Furthermore, I am interested to design and modify the internal structure of various learning models.

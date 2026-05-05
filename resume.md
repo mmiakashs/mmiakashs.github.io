@@ -9,8 +9,6 @@ hide_description: true
 menu: true
 order: 8
 ---
-<h3>I am on the job market !!!</h3>
-
 [Full CV](https://drive.google.com/file/d/0B-unRFQC889GWk1WTnVHNnVCelk/view?resourcekey=0-jY7d10n1Ndm9QJNNxm4RCw)
 
 [Short Resume](https://drive.google.com/file/d/1xHxfeIkF0bClTpR-ws97Bfwnr2jt4XLT/view?usp=sharing)

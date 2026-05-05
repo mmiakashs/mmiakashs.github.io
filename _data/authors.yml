@@ -9,7 +9,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I am Md. Mofijul Islam, currently working as a Lecturer at the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/). I completed M.S. and B.Sc(Hons) in Computer Science and Engineering from the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/).
+    I am Md Mofijul Islam, Tech Lead and Senior Applied Scientist at AWS GenAI. I lead research on multi-agent reasoning, post-training and finetuning of multimodal LLMs, and synthetic data generation. I completed my Ph.D. at the University of Virginia and my M.S. and B.Sc. (Hons) in Computer Science and Engineering from the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/).
 
   # This photo will be used in the about section.
   picture:

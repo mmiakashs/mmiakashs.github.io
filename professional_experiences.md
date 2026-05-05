@@ -9,11 +9,23 @@ order: 5
 ---
 
 ## Professional Experience
-* **AWS  GenAI [Nov 2023 - present]**
-  
-  Tech Lead, Applied Scientist II
-  
-* **Amazon Alexa AI [July 2023 - October 2023]**
+* **AWS GenAI [Feb 2026 - present]**
+
+  Tech Lead & Senior Applied Scientist
+  >* Leading research on Multi-Agent Reasoning, Post-Training/Finetuning for Multimodal LLMs, and Synthetic Data Generation.
+  >* Research Liaison Lead of the Amazon-UCLA Science Hub, Graduate Research Mentor (Johns Hopkins University), Associate AWS Speaker, and Member of the Amazon Research Award Review Panel.
+
+* **AWS GenAI [Nov 2023 - Jan 2026]**
+
+  Tech Lead & Applied Scientist II
+  >* Led research on Synthetic Data Generation and Post-Training/Finetuning for Multimodal LLMs & Multi-Agent Reasoning.
+  >* Led org-wide open-source initiative: [Agentic Multimodal Document Processing (GenAI IDP)](https://github.com/aws-samples/sample-genai-idp) — contributed millions in ARR.
+  >* Featured Blogs: [Analytics Agents](https://aws.amazon.com/blogs/machine-learning/enhance-document-analytics-with-strands-ai-agents-for-the-genai-idp-accelerator/), [Wired: NFL Storytelling](https://www.wired.com/sponsored/story/will-the-nfls-push-into-genai-transform-how-we-see-sports/), [Multimodal Document Processing](https://aws.amazon.com/blogs/machine-learning/accelerate-intelligent-document-processing-with-generative-ai-on-aws/), [Agentic Code Generation](https://aws.amazon.com/blogs/machine-learning/how-totogi-automated-change-request-processing-with-totogi-bss-magic-and-amazon-bedrock/), [Healthcare Document Comprehension](https://aws.amazon.com/blogs/machine-learning/how-myriad-genetics-achieved-fast-accurate-and-cost-efficient-document-processing-using-the-aws-open-source-generative-ai-intelligent-document-processing-accelerator/), [Code Generation](https://aws.amazon.com/blogs/machine-learning/how-sailpoint-uses-anthropics-claude-on-amazon-bedrock-to-automatically-generate-typescript-code-for-saas-connectors/), [LLM-Tools](https://aws.amazon.com/blogs/machine-learning/dxc-transforms-data-exploration-for-their-oil-and-gas-customers-with-llm-powered-tools/), [Optimized Small Model Inference](https://aws.amazon.com/solutions/case-studies/fortinet-nova-case-study/).
+
+* **Amazon Alexa AI [Summer 2023]**
+
+  Applied Scientist Intern
+  >* Trained personalized LLMs for Alexa using knowledge graphs.
   
 * **University of Virginia [August 2019 - June 2023]**
 

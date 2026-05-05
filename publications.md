@@ -10,12 +10,22 @@ order: 4
 
 <a href="https://scholar.google.com/citations?hl=en&user=FYy4ZxYAAAAJ" target="_blank">Google Scholar Profile</a> 
 
-## Under Review [*: Equal Contribution]
-* **Md Mofijul Islam**, Alexi Gladstone, Ganesh Nanduru, Sujan Sarker, Md Fahim, Aman Chadha, Tariq Iqbal, ``Embodied Referring Expression Comprehension Through Multimodal Residual Learning'', ECCV-2024
-* A. G. Chowdhury, **Md Mofijul Islam**, V. Kumar, F. H. Shezan, V. Kumar, V. Jain, A. Chadha, ``Breaking Down the Defenses: A Comparative Survey of Attacks on Large Language Models'', ACL-2024 
+## Under Review / Preprint [*: Equal Contribution / Supervision]
+* Y. Zhu, **Md Mofijul Islam**, S. Chao, W. Wang, "RETROAGENT: Agentic Retrosynthesis Planning with Search Over Structured Memory", **COLM-2026**
+* M. T. Hossain, S. H. Shifat, **Md Mofijul Islam**, M. K. Morol, M. R. Parvez, "BnIdiomEval: LLMs in the Translation of Bengali Idioms", **COLM-2026**
+* M. M. Ahasan, R. H. Khan, T. Mohiuddin, A. Chadha, T. Iqbal, M. M. Amin, A. A. Ali, **Md Mofijul Islam** \*, A. Rahman \*, "FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs", **InterSpeech-2026** [[ArXiv]](https://arxiv.org/abs/2509.11425)
+* M. A. R. Iftee, M. S. Hossain, R. H. Rajib, A. Rahman, T. Iqbal, **Md Mofijul Islam**, M. M. Amin, A. A. Ali \*, "SloMo-FAST: Slow-Momentum and Fast-Adaptive Teachers for Source-Free Continual Test-Time Adaptation", **ECCV-2026 (Under Review)** [[ArXiv]](https://arxiv.org/abs/2511.18468)
+* A. T. Azad, I. S. Apan, F. Ahmed, S. K. Katha, E. Jubaer, A. Alam, P. K. Nandi, A. A. Ali, A. Chadha, **Md Mofijul Islam** \*, A. Rahman \*, "BaFCo: A Document Understanding Benchmark for Complex Bangla Form Comprehension", **ECCV-2026**
 
 
-## Conference Publications (Peer Reviewed):
+## Conference Publications (Peer Reviewed) [*: Equal Contribution / Supervision]:
+* M. F. A. Sayeedi, M. M. Alam, S. S. Rahman, M. A. Islam, J. F. Deepti, T. Mohiuddin, **Md Mofijul Islam** \*, S. Shatabda \*, "Ready to Translate, Not to Represent? Bias and Performance Gaps in Multilingual LLMs Across Language Families and Domains", **ACL-2026** [[ArXiv]](https://arxiv.org/abs/2510.07877)
+* **Md Mofijul Islam**, M. S. Salekin, N. Balakrishnan, V. C. Bishop III, N. Jain, S. Romo, B. Strahan, B. Xie, D. A. Socolinsky, "DocSplit: A Comprehensive Benchmark Dataset and Evaluation Approach for Document Packet Recognition and Splitting", **ACL-2026 (Industry Track)** [[Benchmark]](https://huggingface.co/datasets/amazon/doc_split)
+* **Md Mofijul Islam**, M. S. Salekin, J. King, P. Roy, V. T. Gudi, S. Romo, B. Strahan, B. Xie, D. A. Socolinsky, "IDP Accelerator: Agentic Document Intelligence from Extraction to Compliance Validation", **ACL-2026 (Demo)**
+* A. Gladstone, G. Nanduru, **Md Mofijul Islam**, P. Han, H. Ha, A. Chadha, Y. Du, H. Ji, J. Li, T. Iqbal, "Energy-Based Transformers are Scalable Learners and Thinkers", **ICLR-2026 (Oral)** [[ArXiv]](https://arxiv.org/abs/2406.08862)
+* M. E. Sobhani, M. F. A. Sayeedi, T. Mohiuddin, **Md Mofijul Islam** \*, S. Shatabda \*, "MATHMIST: A Parallel Multilingual Benchmark Dataset for Mathematical Problem Solving and Reasoning", **EACL-2026** [[ArXiv]](https://arxiv.org/abs/2510.14305)
+* **Md Mofijul Islam**, A. Gladstone, S. Sarker, G. Nanduru, M. Fahim, K. Du, A. Chadha, T. Iqbal, "Embodied Referring Expression Comprehension Through Multimodal Residual Learning", **HRI-2026** [[ArXiv]](https://arxiv.org/abs/2512.06558)
+* M. M. Ahasan, M. Fahim, T. Mohiuddin, A. Rahman, A. Chadha, T. Iqbal, M. M. Amin, **Md Mofijul Islam** \*, A. A. Ali \*, "DM-Codec: Distilling Multimodal Representations for Speech Tokenization", **EMNLP-2025** [[ArXiv]](https://arxiv.org/abs/2410.15017) [[Code]](https://github.com/mubtasimahasan/DM-Codec)
 * **Md Mofijul Islam**, Alexi Gladstone, Riashat Islam, Tariq Iqbal, ["EQA-MX: Embodied Question Answering using Multimodal Human Expression,"](https://openreview.net/forum?id=7gUrYE50Rb) ICLR-2024, **Spotlight: 5\% Acceptance rate**
 * Mohammad Samin Yasar, **Md Mofijul Islam**, Tariq Iqbal, "PoseTron: Enabling Close-Proximity Human-Robot Collaboration Through Multi-human Motion Prediction," ACM/IEEE International Conference on Human Robot Interaction (HRI) 2024
 * Riashat Islam, Hongyu Zang, Manan Tomar, Aniket Didolkar, **Md Mofijul Islam**, Samin Yeasar Arnob, Tariq Iqbal, Xin Li, Anirudh Goyal, Nicolas Heess, Alex Lamb, ["Representation Learning in Deep RL via Discrete Information Bottleneck,"](https://arxiv.org/abs/2212.13835) AISTATS-2023

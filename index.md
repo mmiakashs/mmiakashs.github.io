@@ -9,9 +9,11 @@ menu: 1
 ---
 [News & Updates](#updates)
 
-I am Md Mofijul Islam, Applied Scientist II and Tech Lead at the AWS GenAI. I lead customer-centric research projects by advancing research in generative AI, large language models (LLM), code generation, multi-agent systems, and multimodal learning.
+I am Md Mofijul Islam, Tech Lead and Senior Applied Scientist at AWS GenAI. I lead research on multi-agent reasoning, post-training and finetuning of multimodal large language models (LLMs), synthetic data generation, code generation, and agents reasoning.
 
-My research interest broadly lies at the intersection of Multimodal and Multi-Task Learning, Multimodal LLM, Self-Supervised Learning, Generative AI, and Human-Centered AI. I also explore human/animal multisensory systems from a neuroscience perspective to design multimodal learning approaches.
+My research interest broadly lies at the intersection of Multi-Agent Reasoning, Post-Training/Finetuning Multimodal LLMs, Synthetic Data Generation, Multitask Learning, Code Generation, and Human-Centered AI. I also explore human/animal multisensory systems from a neuroscience perspective to design multimodal learning approaches.
+
+I serve as an **Area Chair** for **ICLR-2026**, **ICML-2026**, **NeurIPS-2026**, and **InterSpeech-2026**. I am also the Research Liaison Lead of the Amazon-UCLA Science Hub, a Graduate Research Mentor (Johns Hopkins University), an Associate AWS Speaker, and a member of the Amazon Research Award Review Panel.
 
 I completed my Ph.D. at the University of Virginia (Thesis: Multimodal and Multitask Representation Learning for Perceiving Human Behavior and Embodied). I was an ESE-UVA Bicentennial Fellow (2019-2020). I worked at the [Link Lab](https://engineering.virginia.edu/link-lab-0) with [Prof. Tariq Iqbal](http://www.tiqbal.com/). Previously, I worked as a Lecturer at the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/). I completed my M.S. and B.Sc(Hons) in Computer Science and Engineering from the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/).
 
@@ -28,6 +30,18 @@ I love to write code with background music and participate in hackathons, progra
 
 ## Updates
 
+* Feb 2026: **Promoted to Tech Lead & Senior Applied Scientist at AWS GenAI**
+* 2026: Serving as **Area Chair** for **ICLR-2026, ICML-2026, NeurIPS-2026, and InterSpeech-2026**
+* 2026: Three papers accepted at **ACL-2026** (Main Conference, Industry Track, and Demo) — ["Ready to Translate, Not to Represent?"](https://arxiv.org/abs/2510.07877), ["DocSplit: A Benchmark for Document Packet Recognition and Splitting"](https://arxiv.org/abs/2602.15958) [[Benchmark]](https://huggingface.co/datasets/amazon/doc_split), and ["IDP Accelerator: Agentic Document Intelligence"](https://arxiv.org/abs/2602.23481)
+* 2026: **"Energy-Based Transformers are Scalable Learners and Thinkers"** accepted as **Oral at ICLR-2026** [[ArXiv]](https://arxiv.org/abs/2406.08862)
+* 2026: **"Embodied Referring Expression Comprehension Through Multimodal Residual Learning"** accepted at **HRI-2026** [[ArXiv]](https://arxiv.org/abs/2512.06558)
+* 2026: **"MATHMIST: A Parallel Multilingual Benchmark for Mathematical Reasoning"** accepted at **EACL-2026** [[ArXiv]](https://arxiv.org/abs/2510.14305)
+* Nov 2025: **"DM-Codec: Distilling Multimodal Representations for Speech Tokenization"** accepted at **EMNLP-2025** [[ArXiv]](https://arxiv.org/abs/2410.15017) [[Code]](https://github.com/mubtasimahasan/DM-Codec)
+* 2025: Featured AWS Blog: [Strands AI Agents for the GenAI IDP Accelerator](https://aws.amazon.com/blogs/machine-learning/enhance-document-analytics-with-strands-ai-agents-for-the-genai-idp-accelerator/)
+* 2025: Featured in [Wired: NFL Storytelling](https://www.wired.com/sponsored/story/will-the-nfls-push-into-genai-transform-how-we-see-sports/)
+* 2025: Led org-wide open-source initiative: [Agentic Multimodal Document Processing (GenAI IDP)](https://github.com/aws-samples/sample-genai-idp) — contributed millions in ARR
+* 2024: Featured in [AWS Blog: Accelerate Intelligent Document Processing with Generative AI](https://aws.amazon.com/blogs/machine-learning/accelerate-intelligent-document-processing-with-generative-ai-on-aws/)
+* 2024: Featured in [AWS Blog: Healthcare Document Comprehension (Myriad Genetics)](https://aws.amazon.com/blogs/machine-learning/how-myriad-genetics-achieved-fast-accurate-and-cost-efficient-document-processing-using-the-aws-open-source-generative-ai-intelligent-document-processing-accelerator/)
 * 16 Oct 2024: Our work on code generation is featured in [AWS Blog](https://aws.amazon.com/blogs/machine-learning/how-sailpoint-uses-anthropics-claude-on-amazon-bedrock-to-automatically-generate-typescript-code-for-saas-connectors/)
 * 16 Jan 2024: **Super Excited!!! [EQA-MX is accepted as SPOTLIGHT in ICLR-2024](https://openreview.net/forum?id=7gUrYE50Rb)**
 * 06 Nov 2023: **Joined AWS Generative AI Innovation Center as Applied Scientist II**
