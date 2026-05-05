@@ -1,13 +1,1 @@
 // You can add CSS rules here that will be inlucded in Hydejack's CSS file
-
-// Override the Twitter icon in the sidebar to render as the X.com logo.
-// The Hydejack theme ships an icomoon twitter glyph; we override it with
-// a bold uppercase "X" (rendered in a sans-serif font) so it matches the
-// X.com rebrand without bundling a new icon font.
-.sidebar-social .icon-twitter:before,
-.icon-twitter:before {
-  content: "X" !important;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-  font-weight: 900;
-  letter-spacing: -0.02em;
-}
