@@ -9,70 +9,68 @@ order: 6
 ---
 
 ## Research Grants
-* NVIDIA GPU Grant for Academic Research Project: Multimodal Representational Learning Approach (2018)
-* Research grant from University Grants Commission (UGC), Bangladesh Government for a research project: Domain
-Adaptive Transfer Learning for Multi-task Learning Model (2018-19)
+* NVIDIA Academic GPU Grant for the research project: Multimodal Representation Learning (2018).
+* University Grants Commission (UGC), Government of Bangladesh, research grant for the project: Domain-Adaptive Transfer Learning for Multi-Task Learning Models (2018-19).
 
-## Academic Fellowship / Awards
+## Academic Fellowships & Awards
 * NeurIPS-2022 Scholar Award.
-* Association for the Advancement of Artificial Intelligence (AAAI) Conference Scholarship (2022)
-* Engineering Endowed Fellowship, University of Virginia (2021-2022)
-* Bicentennial Fellowship, University of Virginia (2019-20)
-* Fellowship to attend Cornell, Maryland, Max Planck Pre-doctoral School 2019 (05-10 August 2019)
-* Dean’s Award (Session 2012-13), University of Dhaka, Bangladesh.
-  > In recognition of the Outstanding Scholastic Achievement in Bachelor of Science in Computer Science and Engineering. This award was given for securing 3.94(Out of 4) and Second in Class position.
+* AAAI Conference Scholarship (2022).
+* Engineering Endowed Fellowship, University of Virginia (2021-2022; renewed for Fall 2022 – Spring 2023).
+* ESE-UVA Bicentennial Fellowship, University of Virginia (2019-2020).
+* Fellowship to attend the Cornell, Maryland, Max Planck Pre-Doctoral School (05-10 Aug 2019).
+* Dean's Award (Session 2012-13), University of Dhaka, Bangladesh.
+  > In recognition of outstanding scholastic achievement in the B.Sc. in Computer Science and Engineering. Awarded for securing a CGPA of 3.94/4.00 and second position in class.
 
-* Youth Fellowship (2016) awarded by Asia Pacific Network and Information Center(APNIC 42).
-* ICT Fellowship (2015-2016) awarded by Ministry of Information and Communication Technology, Bangladesh.
-* PyTorch Scholarship Challenge from Facebook
-* Scholarship to attend 7th Workshop on Collaborative Scientific Software Development, Abdus Salam
-International Centre for Theoretical Physics (ICTP), in Trieste from 29 April 2019 to 10 May 2019.
+* Youth Fellowship (2016), Asia Pacific Network Information Centre (APNIC 42).
+* ICT Fellowship (2015-2016), Ministry of Information and Communication Technology, Bangladesh.
+* PyTorch Scholarship Challenge, Facebook.
+* Scholarship to attend the 7th Workshop on Collaborative Scientific Software Development at the Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy (29 Apr – 10 May 2019).
 
 
-## Software Contest/Hackathon - International (Contestants)
-* Winner(Round one), Team – Omelet( Team Leader), Samsung Gear App Challenge 2014.
-* Runner-up & Public Choice Award, Team – Omelet(Team Leader), Ford City Mobility Challenge- 2014.
-* Public Choice Award, Team – Omelet(Team Leader), Ford Monsoon App Downpour Challenge- 2014.
-* Nominated for Final of World Summit Award 2015, App – Hajj Wizard(Team Leader).
+## Software Contests / Hackathons — International (Contestant)
+* Winner (Round One), Team Omelet (Team Leader), Samsung Gear App Challenge 2014.
+* Runner-up & Public Choice Award, Team Omelet (Team Leader), Ford City Mobility Challenge 2014.
+* Public Choice Award, Team Omelet (Team Leader), Ford Monsoon App Downpour Challenge 2014.
+* World Summit Award 2015 Finalist, Hajj Wizard (Team Leader).
 
-## Software Contest/Hackathon - National (Contestants)
-* Winner, Team – Infinity(Team Leader), Shetu Codewin Competition – 2013.
-* Winner, Team – Omelet(Team Leader), EATL Mobile Apps Development Competition - 2013-2014.
-* Winner, Team – Fat Boys(Team Leader), EATL Facebook Game Development Competition - 2013-2014.
-* Winner(Utility Category), Team – Omelet(Team Leader), Mozilla App Challenge- 2014-2015.
-* Winner (Tourism and Culture), Team – Omelet(Team Leader), National Mobile Application Award - 2014-2015.
-* Runner-up, Team – Omelet(Team Leader), National Hackathon- 2014.
-* Runner-up (Mobile Application Division), Team – University of Dhaka, Code Warriors Challenge-2014.
-* Runner-up, Team – Logic Spinners(Team Leader), EATL Mobile Apps Development Competition 2012-2013.
-* Fourth, Team – Purity(Team Leader), EATL Mobile Apps Development Competition 2013-2014.
+## Software Contests / Hackathons — National (Contestant)
+* Winner, Team Infinity (Team Leader), Shetu Codewin Competition 2013.
+* Winner, Team Omelet (Team Leader), EATL Mobile Apps Development Competition 2013-2014.
+* Winner, Team Fat Boys (Team Leader), EATL Facebook Game Development Competition 2013-2014.
+* Winner (Utility Category), Team Omelet (Team Leader), Mozilla App Challenge 2014-2015.
+* Winner (Tourism and Culture), Team Omelet (Team Leader), National Mobile Application Award 2014-2015.
+* Runner-up, Team Omelet (Team Leader), National Hackathon 2014.
+* Runner-up (Mobile Application Division), Team University of Dhaka, Code Warriors Challenge 2014.
+* Runner-up, Team Logic Spinners (Team Leader), EATL Mobile Apps Development Competition 2012-2013.
+* Fourth Place, Team Purity (Team Leader), EATL Mobile Apps Development Competition 2013-2014.
 
-## Competitive Programming Contest (Contestants)
-* Position: 8th,Team: Proxima Centauri,International Collegiate Programming Contest-2011,Dhaka Regional.
-* Position: 7th, Team: DU Proxima Centauri, Inter-University Programming Contest-2011, Organized by BUET.
-* Position: 11th,Team:DU Proxima Centauri,Inter-University Programming Contest-2012, Organized by BUBT.
-* Position: 14th, Team: DU Proxima Centauri, Inter-University Programming Contest-2011, Organized by SUST.
-* Position: 15th, Team: DU Proxima Centauri, Inter-University Programming Contest-2011, Organized by DIU.
-* Position: 20th, Team: DU Proxima Centauri, National Collegiate Programming Contest-2011.
-* Position: 27th, Team: DU Mango, International Collegiate Programming Contest-2012,Dhaka Regional.
-* Position: 29th, Team: DU Novice, Inter-University Programming Contest-2011, Organized by EWU.
+## Competitive Programming Contests (Contestant)
+* 8th, Team Proxima Centauri, International Collegiate Programming Contest 2011 (Dhaka Regional).
+* 7th, Team DU Proxima Centauri, Inter-University Programming Contest 2011 (hosted by BUET).
+* 11th, Team DU Proxima Centauri, Inter-University Programming Contest 2012 (hosted by BUBT).
+* 14th, Team DU Proxima Centauri, Inter-University Programming Contest 2011 (hosted by SUST).
+* 15th, Team DU Proxima Centauri, Inter-University Programming Contest 2011 (hosted by DIU).
+* 20th, Team DU Proxima Centauri, National Collegiate Programming Contest 2011.
+* 27th, Team DU Mango, International Collegiate Programming Contest 2012 (Dhaka Regional).
+* 29th, Team DU Novice, Inter-University Programming Contest 2011 (hosted by EWU).
 
-## Competition Judge and Problem Setter
-* Problem setter in Hackerrank [CodeWihz.java](https://www.hackerrank.com/codewhiz-java) October 2015.
-* Problem setter in some advance programming problems of [JAVA domains in Hackerrank](https://www.hackerrank.com/domains/java/java-advanced).
-* Coordinator, Judge & problem setter, UIU Intra-University Programming Contest, 2015.
+## Competition Judge & Problem Setter
+* Problem setter, HackerRank [CodeWhiz.java](https://www.hackerrank.com/codewhiz-java) (October 2015).
+* Problem setter, advanced programming problems in the [Java domain on HackerRank](https://www.hackerrank.com/domains/java/java-advanced).
+* Coordinator, judge, and problem setter, UIU Intra-University Programming Contest 2015.
 
-## Competitive Programming Contest (Coach- University of Dhaka)
-* Coach, International Collegiate programming Contest-2018, Dhaka Regional.
-* Coach, Inter-University Collegiate programming Contest-2018, Organized by Green University Bangladesh.
-* Coach, National Collegiate Programming Contest-2018.
-* Coach, International Collegiate programming Contest-2017, Dhaka Regional.
+## Competitive Programming Contests (Coach — University of Dhaka)
+* Coach, International Collegiate Programming Contest 2018 (Dhaka Regional).
+* Coach, Inter-University Collegiate Programming Contest 2018 (hosted by Green University Bangladesh).
+* Coach, National Collegiate Programming Contest 2018.
+* Coach, International Collegiate Programming Contest 2017 (Dhaka Regional).
 
-## Competitive Programming Contest (Coach- United International University)
-* Coach, International Collegiate programming Contest-2015, Dhaka Regional.
-* Coach, National Collegiate Programming Contest-2016.
-* Coach, Inter-University programming Contest-2016, Organized by NSU Cybernauts.
-* Coach, Inter-University programming Contest-2016, Organized by SUB.
-* Coach, Inter-University programming Contest-2016, Organized by IUT.
-* Coach, National Collegiate Programming Contest-2015.
-* Coach, Inter-University programming Contest-2015, Organized by SUST.
-* Coach, Inter-University programming Contest-2015, Organized by IUT.
+## Competitive Programming Contests (Coach — United International University)
+* Coach, International Collegiate Programming Contest 2015 (Dhaka Regional).
+* Coach, National Collegiate Programming Contest 2016.
+* Coach, Inter-University Programming Contest 2016 (hosted by NSU Cybernauts).
+* Coach, Inter-University Programming Contest 2016 (hosted by SUB).
+* Coach, Inter-University Programming Contest 2016 (hosted by IUT).
+* Coach, National Collegiate Programming Contest 2015.
+* Coach, Inter-University Programming Contest 2015 (hosted by SUST).
+* Coach, Inter-University Programming Contest 2015 (hosted by IUT).

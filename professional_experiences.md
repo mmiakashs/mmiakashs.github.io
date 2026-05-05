@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professional Experiences
+title: Experience
 description: >
   Md Mofijul Islam's Portfolio.
 hide_description: true
@@ -8,7 +8,7 @@ menu: true
 order: 5
 ---
 
-## Professional Experience
+## Experience
 * **AWS GenAI [Feb 2026 - present]**
 
   Tech Lead & Senior Applied Scientist
@@ -27,56 +27,50 @@ order: 5
   Applied Scientist Intern
   >* Trained personalized LLMs for Alexa using knowledge graphs.
   
-* **University of Virginia [August 2019 - June 2023]**
+* **University of Virginia [Aug 2019 - Jun 2023]**
 
-  Graduate  Research Student
-  
-* **Amazon Alexa AI [May 2021 - August 2021]**
-  
-  Applied Scientist Intern 
-  >* Developed A Vocabulary-Free Multilingual Neural Tokenizer for End-to-End Task Learning
+  Graduate Research Student
 
-* **University of Dhaka  [March 2017 - August 2019]**
+* **Amazon Alexa AI [May 2021 - Aug 2021]**
 
-  Lecturer (Full-time), Department of Computer Science and Engineering  [September 2017 - Present]
-  
-  Lecturer (Part-time), Department of Computer Science and Engineering  [March 2017 - August 2017]
-  >* Courses Instructed: Software Engineering, Algorithm Design and Analysis, Software Design Pattern, Application Development Lab, Web Engineering and E-commerce, Fundamental Programming.
+  Applied Scientist Intern
+  >* Developed a vocabulary-free multilingual neural tokenizer for end-to-end task learning.
 
-* **United International University  [January 2015 - September 2017]**
+* **University of Dhaka [Mar 2017 - Aug 2019]**
 
-  Lecturer, Department of Computer Science and Engineering 
-  >* Competitive Programming Contest Coordinator, Coach [May 2015-present].
-  >* Software Development Contest & Hackathon Coordinator, Trainer [Jan 2015-present].
-  >* Courses Instructed: Algorithm, Mobile Application Development, Artificial Intelligence, Object Oriented Programming, Discrete Mathematics, Structured Programming Language, Database Management System.
+  Lecturer (Full-time), Department of Computer Science and Engineering [Sep 2017 - Aug 2019]
 
-* **Tiger It, Bangladesh  [April 2014 - August 2014]**
+  Lecturer (Part-time), Department of Computer Science and Engineering [Mar 2017 - Aug 2017]
+  >* Courses taught: Software Engineering, Algorithm Design and Analysis, Software Design Patterns, Application Development Lab, Web Engineering and E-commerce, Fundamentals of Programming.
 
-  Software Engineering
+* **United International University [Jan 2015 - Sep 2017]**
 
-  > Developed a team communication application, which can be used for team conference, meeting. Using this application you can know which employee is working or not as well as you just start a call with a click. I implemented this application using WebRTC, nodejs(backend) and HTML5 for the forntend.
+  Lecturer, Department of Computer Science and Engineering
+  >* Competitive Programming Contest Coordinator and Coach [May 2015 - Sep 2017].
+  >* Software Development Contest & Hackathon Coordinator and Trainer [Jan 2015 - Sep 2017].
+  >* Courses taught: Algorithms, Mobile Application Development, Artificial Intelligence, Object-Oriented Programming, Discrete Mathematics, Structured Programming Language, and Database Management Systems.
 
-* **Day Spring Ltd., Bangladesh  [July 2013 - August 2013]**
+* **Tiger IT, Bangladesh [Apr 2014 - Aug 2014]**
 
-  Software Engineering
+  Software Engineer
+  >* Developed a browser-based team communication application for conferencing and meetings, with availability tracking and one-click calling. Built with WebRTC, Node.js (backend), and HTML5 (frontend).
 
-  >Worked as backend software engineer for a project ”Ansar management system”. In this project I developed the backend system using Oracle Database, php(codeigniter framework).
+* **Day Spring Ltd., Bangladesh [Jul 2013 - Aug 2013]**
 
-* **National Hackathon, Bangladesh  [April 2016 - April 2016]**
+  Software Engineer
+  >* Worked as a backend engineer on the "Ansar Management System", building the backend with Oracle Database and PHP (CodeIgniter).
 
-  JUDGE & MENTOR, UX AND MOBILE APPLICATION DEVELOPMEN
+* **National Hackathon, Bangladesh [Apr 2016]**
 
-  >I judged and mentored User Experience and Mobile Application Development aspects of teams application.
+  Judge & Mentor, UX and Mobile Application Development
+  >* Judged and mentored teams on user experience and mobile application development.
 
-* **Google Developer Group - Dhaka  [August 2015 - September 2015]**
+* **Google Developer Group – Dhaka [Aug 2015 - Sep 2015]**
 
   Trainer, Android Mobile Application Development Training Program
+  >* Trained 30+ students from basic to intermediate levels of Android mobile application development.
 
-  >Trained almost 30+ students from basic to intermediate level of Android Mobile Application development.
+* **Ministry of ICT, Bangladesh [Feb 2015 - Apr 2015]**
 
-* **Ministry of ICT, Bangladesh  [Feb 2015 - April 2015]**
-
-  
   Trainer, Android Mobile Application Development Training Program
-
-  >Trained employees and students from very basic to professional level of Android mobile app development.
+  >* Trained employees and students from beginner to professional levels of Android mobile application development.

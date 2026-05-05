@@ -22,10 +22,10 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    github:          mmiakashs
-    stackoverflow:   1596703/beingmiakashs
-    twitter:         beingMIAkashs
     linkedin:        beingmiakashs
+    github:          mmiakashs
+    twitter:         beingMIAkashs
+    stackoverflow:   1596703/beingmiakashs
     email:           akash@cse.du.ac.bd,akash.cse.du@gmail.com
     youtube:         UCmqfNatifnetrcaPhxR_Rrg
     # download:        <url>

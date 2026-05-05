@@ -15,12 +15,10 @@ Table of Contents
     - [Synthetic Data Generation](#synthetic-data-generation)
     - [Agentic Document Intelligence](#agentic-document-intelligence)
     - [Code Generation](#code-generation)
-  * [Artificial Inteligence and Machine learning](#artificial-intelligence-and-machine-learning)
+  * [Artificial Intelligence and Machine Learning](#artificial-intelligence-and-machine-learning)
     - [Multi-modal and Multi-task Learning **\[Grant\]**](#multi-modal-and-multi-task-learning)
-      - [Transfer Lerning in Visual Question Answering](#transfer-learning-in-visual-question-answering)
-    - [Design Optimization and Evolutionary Approches](#design-optimization-and-evolutionary-approaches)
+    - [Design Optimization and Evolutionary Approaches](#design-optimization-and-evolutionary-approaches)
       - [Resource Allocation in Mobile Cloud Computing](#resource-allocation-in-mobile-cloud-computing)
-      - [Reduce Overfiting Problem in Deep Learning Models](#reduce-overfitting-problem-in-deep-learning-models)
       - [Optimized Distributed Clustering Model in DSN](#optimized-distributed-clustering-model-in-dsn)
     - [Developer Question Answering and Repository Mining](#developer-question-answering-and-repository-mining)
     - [Interpretable Machine Learning](#interpretable-machine-learning)
@@ -31,9 +29,6 @@ Table of Contents
     - [Bangla Speech and Speakers Identification](#bangla-speech-and-speakers-identification)
   * [Computational Biology](#computational-biology)
     - [iProtGly-SS: Identifying Protein Lysine Glycation Sites Using Sequence Features](#iprotgly-ss-identifying-protein-lysine-glycation-sites-using-sequence-features)
-    - [Identification of Recombination Hotspot in Genome](#identification-of-recombination-hotspot-in-genome)
-  * [Big Graph Query and Mining](#big-graph-query-and-mining)
-  * [Mining Spatiotemporal Behavior of Contributors in OpenStreetMap](#mining-spatiotemporal-behavior-of-contributors-in-openstreetmap)
 
 ## Generative AI and Large Language Models
 At AWS GenAI, I lead research on the next generation of multimodal LLMs and agentic systems. My focus spans multi-agent reasoning, post-training and finetuning of multimodal LLMs, synthetic data generation, and agentic document intelligence.
@@ -43,7 +38,7 @@ At AWS GenAI, I lead research on the next generation of multimodal LLMs and agen
 
     We develop multi-agent reasoning frameworks that plan, search, and coordinate across specialized agents to tackle complex tasks such as scientific discovery, retrosynthesis, document understanding, and compliance validation. Our work combines structured memory, search-based planning, and tool use to move beyond single-pass LLM reasoning toward collaborative agentic inference.
 
-    **Outcome:** [COLM-2026 (RETROAGENT)], [ACL-2026 Demo — IDP Accelerator: Agentic Document Intelligence from Extraction to Compliance Validation], [AWS Blog: Strands AI Agents for GenAI IDP](https://aws.amazon.com/blogs/machine-learning/enhance-document-analytics-with-strands-ai-agents-for-the-genai-idp-accelerator/)
+    **Outcome:** [COLM-2026 (RETROAGENT)], [ACL-2026 Demo — IDP Accelerator: Agentic Document Intelligence from Extraction to Compliance Validation], [AWS Blog: Strands AI Agents for GenAI IDP](https://aws.amazon.com/blogs/machine-learning/enhance-document-analytics-with-strands-ai-agents-for-the-genai-idp-accelerator/), [AWS Blog: Agent Tooling for LLM-Powered Data Exploration (DXC)](https://aws.amazon.com/blogs/machine-learning/dxc-transforms-data-exploration-for-their-oil-and-gas-customers-with-llm-powered-tools/)
 
   * ## Post-Training and Finetuning of Multimodal LLMs
     Lead: Md Mofijul Islam, AWS GenAI
@@ -71,114 +66,83 @@ At AWS GenAI, I lead research on the next generation of multimodal LLMs and agen
 
     We develop LLM-powered code generation systems for real-world software engineering workflows — including automated SaaS connector generation and agentic change-request processing for enterprise customers.
 
-    **Outcome:** [AWS Blog: SailPoint TypeScript Code Generation](https://aws.amazon.com/blogs/machine-learning/how-sailpoint-uses-anthropics-claude-on-amazon-bedrock-to-automatically-generate-typescript-code-for-saas-connectors/), [AWS Blog: Agentic Code Generation (Totogi)](https://aws.amazon.com/blogs/machine-learning/how-totogi-automated-change-request-processing-with-totogi-bss-magic-and-amazon-bedrock/), [AWS Blog: LLM-Tools (DXC)](https://aws.amazon.com/blogs/machine-learning/dxc-transforms-data-exploration-for-their-oil-and-gas-customers-with-llm-powered-tools/)
+    **Outcome:** [AWS Blog: SailPoint TypeScript Code Generation](https://aws.amazon.com/blogs/machine-learning/how-sailpoint-uses-anthropics-claude-on-amazon-bedrock-to-automatically-generate-typescript-code-for-saas-connectors/), [AWS Blog: Agentic Code Generation (Totogi)](https://aws.amazon.com/blogs/machine-learning/how-totogi-automated-change-request-processing-with-totogi-bss-magic-and-amazon-bedrock/)
 
 ## Artificial Intelligence and Machine Learning
-I am mainly working in the intersection of theoretical artificial intelligence and practical machine learning approaches. Currently, I am working to develop some learning models to solve problems in the various domain. As mainly I am involved in the design and developing learning model, I collaborate with several domain experts in different fields. Furthermore, I am interested to design and modify the internal structure of various learning models.
+I work at the intersection of theoretical artificial intelligence and practical machine learning. I develop learning models that solve problems across a variety of domains, collaborating with domain experts while also designing and modifying the internal structure of various learning models.
 
   * ## Multi-modal and Multi-task Learning
     Primary Investigator: Md Mofijul Islam, University of Dhaka
 
-    Representation learning is applied in different areas, such as Computer Vision, Natural Language Processing(NLP), Social Network analysis, etc. Most of the representational learning are applied in solving inference problems by leveraging the unimodal data. However, in recent years, with the increasing computation power, multi-modal learning is applied in developing different inference system. As multi-modal learning brings new information from different modalities, which in turn enable an inference system to embed this new information to learn a particular modality data representation with better confidence. For example, we can jointly learn the visual and textual data representation for Visual Question Answering System.
+    Representation learning has been widely applied in areas such as computer vision, natural language processing (NLP), and social network analysis. Most representation learning approaches solve inference problems using unimodal data. In recent years, with growing compute, multimodal learning has become central to many inference systems: by bringing in complementary information across modalities, it allows a system to learn stronger representations for each modality. For example, we can jointly learn visual and textual representations for Visual Question Answering systems.
 
-      **Outcome:** **Received Nvidia Academic GPU Grant to conduct this work**
-
-    -  ### Transfer Learning in Visual Question Answering
-      Primary Investigator: Md Mofijul Islam, University of Dhaka
-
-      Primarily, in this project, we want to apply the multi-modal and transfer learning approaches to improve the Visual Question Answering(VQA) system. We developed a multi-modal learning model by utilizing [VizWiz Dataset](http://vizwiz.org/data/#dataset) and achieved considerable performance. We have a plan to extend this work to test our approach in other datasets by incorporating transfer learning approach.
-
-      **Outcome:** [Manuscript in Preparation]
+      **Outcome:** Received the NVIDIA Academic GPU Grant to support this work.
 
   * ## Design Optimization and Evolutionary Approaches
-    The aim of this project is to design optimization and evolutionary approaches to solve NP-Complete problems in various domains, such as resource allocation in cloud computing environment and reduce overfitting issue as well as improve the reasoning process in learning models.
+    This project designs optimization and evolutionary approaches to solve NP-complete problems across domains — including resource allocation in cloud computing, mitigating overfitting, and improving the reasoning process in learning models.
       - ### Resource Allocation in Mobile Cloud Computing
       Supervisor: Dr. Md Abdur Razzaque, University of Dhaka
 
-      In this project, we utilized two evolutionary approaches, Genetic Algorithm and Particle Swarm Optimization(specifically Ant Colony Optimization) to design two resource allocation schemes in heterogeneous Mobile Cloud Computing(MCC) environment. This meta-heuristics resource allocation approaches helps to minimize the task execution and subsequently increase resource utilization in MCC, which is very crucial for Big data-based resource constrained cloud application, such as mobile and e-health application.
+      We used two evolutionary approaches — Genetic Algorithms and Particle Swarm Optimization (specifically Ant Colony Optimization) — to design resource allocation schemes for heterogeneous Mobile Cloud Computing (MCC) environments. These meta-heuristic approaches minimize task execution time and improve resource utilization, which is critical for big-data-driven, resource-constrained cloud applications such as mobile and e-health systems.
 
-      **Outcome:** [IEEE Access 2017](http://ieeexplore.ieee.org/document/7933943/),[NSysS 2016](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7400696)
-
-      - ### Reduce Overfitting Problem in Deep Learning Models
-      Supervisor: Dr. Swakkhar Shatabda, United International University
-
-      We are currently working with some evolutionary and meta-heuristic local search approaches to reduce the overfitting problem in deep learning problem, as till now most of the effective solution of overfitting problem is not guided approach. Primarily, we are working in designing meta-heuristic dropout approach to reducing the overfitting problem.
-
-      **Outcome:** [Work in Progress]
+      **Outcome:** [IEEE Access 2017](http://ieeexplore.ieee.org/document/7933943/), [NSysS 2016](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7400696)
 
       - ### Optimized Distributed Clustering Model in DSN
       Supervisor: Dr. Md Abdur Razzaque, University of Dhaka
 
-      We developed a dynamic distributed clustering model to minimize energy consumption and data collection time in the directional sensor network(DSN) by minimizing the active directional sensor nodes. Our clustering approach is showed effective performance to increase the network lifetime in DSN.
+      We developed a dynamic distributed clustering model that minimizes energy consumption and data collection time in directional sensor networks (DSNs) by reducing the number of active directional sensor nodes. The approach effectively increased network lifetime in DSNs.
 
-      **Outcome:** [EURASIP JWCN 2015](http://link.springer.com/article/10.1186/s13638-015-0394-2),[IEEE APWiMob 2014](http://ieeexplore.ieee.org/document/6920259/)
+      **Outcome:** [EURASIP JWCN 2015](http://link.springer.com/article/10.1186/s13638-015-0394-2), [IEEE APWiMob 2014](http://ieeexplore.ieee.org/document/6920259/)
 
   * ## Developer Question Answering and Repository Mining
     Supervisor: Md Mofijul Islam, United International University
 
-    The aim of this work is to mine the question answering(QA) system data, especially StackOverflow QA data, and other software project repositories data in order to design some learning and thus ease the software development process. As a part of this project, we developed an accepted answer recommendation model, which helps to rank the answer in a StackOverflow question by utilizing various textual and meta-features of the question, answer and the comments [RAiTA](https://link.springer.com/chapter/10.1007/978-981-13-1498-8_11).
+    This project mines question-answering (QA) data — especially from Stack Overflow — along with data from software project repositories, with the goal of designing learning models that streamline the software development process. As part of this work, we developed an accepted-answer recommendation model, [RAiTA](https://link.springer.com/chapter/10.1007/978-981-13-1498-8_11), which ranks answers to Stack Overflow questions using textual and meta-features of the question, answer, and comments.
 
     **Outcome:** [Springer IEMIS 2018](https://link.springer.com/chapter/10.1007/978-981-13-1498-8_11)
 
   * ## Interpretable Machine Learning
     Primary Investigator: Md Mofijul Islam, University of Dhaka
 
-    The goal of this project is to develop applications, which enable people to understand the learning process of learning models. In recent years several complex learning models have been proposed and these models outperform in solving several complex tasks. However, these mostly fails to explain the internal reasoning process, i.e. how their internal structure learns and most importantly which features learns in a particular layer. In this project, we address this problem and develop applications which help people to understand the black-box learning process. Moreover, we are also developing application which may help to debug learning models.
+    This project builds tools that help people understand how learning models learn. In recent years, several complex models have achieved strong performance on difficult tasks, yet often fail to explain their internal reasoning — how their layers learn and which features each layer captures. We develop applications that help users understand these black-box learning processes, and we are also building tools to aid in debugging learning models.
 
-      - ### d-DeVIS: A Gray Box Interpretable Visual Debugging Approach for Deep Sequence Learning Model
+      - ### d-DeVIS: A Gray-Box Interpretable Visual Debugging Approach for Deep Sequence Learning Models
 
-      Deep Learning algorithms are often used as black box type learning and they are too complex to understand. The widespread usability of Deep Learning algorithms to solve various machine learning problems demands deep and transparent understanding of the internal representation as well as decision making. Moreover, the learning models, trained on sequential data, such as audio and video data, have intricate internal reasoning process due to their complex distribution of features. Thus, a visual simulator might be helpful to trace the internal decision making mechanisms in response to adversarial input data, and it would help to debug and design appropriate deep learning models. However, interpreting the internal reasoning of deep learning model is not well studied in the literature. In this work, we have developed a visual interactive web application, namely d-DeVIS, which helps to visualize the internal reasoning of the learning model which is trained on the audio data. The proposed system allows to perceive the behavior as well as to debug the model by interactively generating adversarial audio data point.
+      Deep learning algorithms are frequently treated as black boxes and are difficult to interpret. Their widespread use demands a deeper, more transparent understanding of their internal representations and decision-making. Models trained on sequential data — such as audio and video — have especially intricate internal reasoning due to complex feature distributions. A visual simulator can help trace internal decision-making in response to adversarial inputs, aiding both debugging and model design. We developed d-DeVIS, an interactive web application that visualizes the internal reasoning of a model trained on audio data, letting users interpret model behavior and debug it by interactively generating adversarial audio inputs.
 
       **Outcome:** [ArXiv](https://arxiv.org/abs/1811.08374), [Video Demo](https://www.youtube.com/watch?v=O2bNV-U0ylg), [Web Application](http://ddevis.herokuapp.com/), [Source Code](https://github.com/anon-conf/d-DeVIS)
 
 
 ## Natural Language Processing
-Currently, we are working in designing transfer learning approaches in order to improve various computational linguistic problems. Furthermore, we are involved in developing the computationally linguistic model and comprehensive datasets of Bangla language. Because, in the literature, a few works address Bangla language, mainly due to the complexity of this language and the scarcity of the datasets.
+We design transfer learning approaches to improve a range of computational linguistic tasks, and we also build computational linguistic models and comprehensive datasets for the Bangla language. Relatively few works address Bangla, largely due to the complexity of the language and the scarcity of publicly available datasets.
 
-  * ### Transfer Learning Approach to Extract Fact and Validate Statement
+  * ### Transfer Learning Approach to Fact Extraction and Statement Validation
   Primary Investigator: Md Mofijul Islam, University of Dhaka
 
-  In recent years, with the proliferation of social media, the validating statement appears as a crucial problem and attract the attention of NLP research communities. However, due to the lack of any comprehensive dataset, NLP communities could not address this problem effectively. That's why in this work, we are utilizing the transfer learning approach to develop a fact extraction and checking models with the few available datasets.
+  With the proliferation of social media, statement validation has become a crucial problem for the NLP research community. However, progress has been limited by the lack of comprehensive datasets. In this project, we use transfer learning to build fact extraction and checking models from the limited data available.
 
-  **Outcome:** [Accepted in IJCCI 2018]
+  **Outcome:** Accepted at IJCCI 2018.
 
   * ### Bangla Article Classification
   Supervisor: Md Mofijul Islam, University of Dhaka
 
-  We curated a comprehensive dataset of Bangla news articles, which contains around 400,000 news articles collected from different Bangla News portals. We also develop Bangla articles classification model with semantic textual features, which outperforms state-of-art-works. Moreover, we have also plan to extend this dataset, so that we can address other Bangla NLP research problems.
+  We curated a comprehensive dataset of approximately 400,000 Bangla news articles collected from various Bangla news portals, and developed a Bangla article classification model using semantic textual features that outperforms state-of-the-art methods. We plan to extend this dataset to support additional Bangla NLP research problems.
 
-  **Outcome:** ICBSLP 2018[[Dataset and Source Code](https://github.com/tanvirfahim15/BARD-Bangla-Article-Classifier), [Web Application](http://bard2018.pythonanywhere.com/)]
+  **Outcome:** ICBSLP 2018 [[Dataset & Code]](https://github.com/tanvirfahim15/BARD-Bangla-Article-Classifier) [[Web App]](http://bard2018.pythonanywhere.com/)
 
-  * ### Bangla Speech and Speakers Identification
+  * ### Bangla Speech and Speaker Identification
   Primary Investigator: Md Mofijul Islam, University of Dhaka
 
-  Presently, in this work, we are developing a Bangla speech dataset so that researchers can develop various computational learning models, such as Bangla voice recognition, speakers identification etc. Till now, there is no public Bangla speech dataset available for research purpose.
+  In this project, we are developing a Bangla speech dataset to enable research on computational learning models for tasks such as Bangla voice recognition and speaker identification. To date, no public Bangla speech dataset has been available for research purposes.
 
-  **Outcome:** [Data Collection Application](http://banglawordlearner.firebaseapp.com)
+  **Outcome:** [Data Collection App](http://banglawordlearner.firebaseapp.com)
 
 ## Computational Biology
 Supervisor: Dr. Swakkhar Shatabda, United International University
 
-In this research project, we are working with domain experts to develop a learning model to solve various Bio-Informatics related problems.
+In this project, we collaborate with domain experts to develop learning models for a range of bioinformatics problems.
 
-  * ###  iProtGly-SS: Identifying Protein Lysine Glycation Sites Using Sequence Features
-  Glycation is a chemical reaction by which sugar molecule bonds with a protein without the help of enzymes. This is often caused to many diseases and therefore the knowledge about glycation is very important. In this work, we designed a supervised learning model, iProtGly-SS, to identify protein lysine glycation site based on features extracted from sequence and secondary structural information.
+  * ### iProtGly-SS: Identifying Protein Lysine Glycation Sites Using Sequence Features
+  Glycation is a chemical reaction in which a sugar molecule bonds with a protein without the aid of enzymes, and it is implicated in many diseases — so accurate identification of glycation sites is important. In this work, we designed a supervised learning model, iProtGly-SS, to identify protein lysine glycation sites from features extracted from sequence and secondary-structure information.
 
-    **Outcome:** [Proteins Journal 2018](https://www.ncbi.nlm.nih.gov/pubmed/29675975) [[Source Code, Data, Web Application](http://brl.uiu.ac.bd/iprotgly-ss/)]
-
-  * ### Identification of Recombination Hotspot in Genome
-  In this work, we are trying to develop a deep learning in order to extract the sequence-based features and thus identify the recombination hotspot in a genome.
-    **Outcome:** [Work in Progress]
-
-
-## Big Graph Query and Mining
-Primary Investigator: Md Mofijul Islam, University of Dhaka
-
-We are working to develop algorithms which help to query and mining subgraph in a big graph dataset. Currently, we developed heuristic pruning based subgraph graph query approach to speed up the search and mining approach in the big scholarly dataset. As we are writing the paper, that's why we can not able to disclose our complete problem description and solution. However, if you need any more information, you can contact me.
-
-  **Outcome:** [Manuscript in Preparation]
-
-## Mining Spatiotemporal Behavior of Contributors in OpenStreetMap
-Supervisor: Dr. Syed Ishtiaque Ahmed, University of Toronto
-
-The aim of this project is to mine the Spatiotemporal behavior and contribution bias in peer of production system, specifically OpenStreetMap.
+    **Outcome:** [Proteins Journal 2018](https://www.ncbi.nlm.nih.gov/pubmed/29675975) [[Code, Data & Web App]](http://brl.uiu.ac.bd/iprotgly-ss/)
