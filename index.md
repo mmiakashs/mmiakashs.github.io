@@ -7,9 +7,9 @@ hide_description: true
 cover: false
 menu: 1
 ---
-Mofijul is a Tech Lead and Senior Applied Scientist at AWS GenAI. His research focuses on multi-agent reasoning, post-training and finetuning of multimodal LLMs, synthetic data generation, and code generation. He also draws on insights from human and animal multisensory systems to inform multimodal learning.
+Mofijul is a Tech Lead and Senior Applied Scientist at AWS GenAI. His research focuses on multi-agent reasoning, neurosymbolic reasoning, post-training and finetuning of multimodal LLMs, and synthetic data generation. He also draws on insights from human and animal multisensory systems to inform multimodal learning.
 
-Mofijul serves as an **Area Chair** for **ICLR**, **ICML**, **NeurIPS**, and **InterSpeech**. He is also the Research Liaison Lead of the Amazon-UCLA Science Hub, a Graduate Research Mentor at Johns Hopkins University, an Associate AWS Speaker, and a member of the Amazon Research Award Review Panel.
+Mofijul serves as an **Area Chair** for **ICLR**, **ICML**, **NeurIPS**, and **InterSpeech**, and as a **Senior Program Committee** member for **AAAI**. He is also the Research Liaison Lead of the Amazon-UCLA Science Hub, a Graduate Research Mentor at Johns Hopkins University, an Associate AWS Speaker, and a member of the Amazon Research Award Review Panel.
 
 Mofijul completed his Ph.D. at the University of Virginia (Thesis: *Multimodal and Multitask Representation Learning for Perceiving Human Behavior in Embodied Settings*) as an ESE-UVA Bicentennial Fellow (2019-2020), working at the [Link Lab](https://engineering.virginia.edu/link-lab-0) with [Prof. Tariq Iqbal](http://www.tiqbal.com/). Previously, he was a Lecturer at the [Department of Computer Science and Engineering, University of Dhaka](http://cse.du.ac.bd/), where he also earned his M.S. and B.Sc. (Hons) in Computer Science and Engineering.
 
@@ -26,8 +26,9 @@ Outside of research, Mofijul enjoys writing code to background music, participat
 
 ## Updates
 
+* Jul 2026: Our work is featured in [Business Insider: How Myriad Genetics uses AI document processing on AWS Bedrock](https://www.businessinsider.com/myriad-genetics-ai-document-processing-aws-bedrock-2026-7)
 * Feb 2026: **Promoted to Tech Lead & Senior Applied Scientist at AWS GenAI**
-* 2026: Serving as **Area Chair** for **ICLR-2026, ICML-2026, NeurIPS-2026, and InterSpeech-2026**
+* 2026: Serving as **Area Chair** for **ICLR-2026, ICML-2026, NeurIPS-2026, and InterSpeech-2026**, and as a **Senior Program Committee** member for **AAAI**
 * 2026: Three papers accepted at **ACL-2026** (Main Conference, Industry Track, and Demo) — ["Ready to Translate, Not to Represent?"](https://arxiv.org/abs/2510.07877), ["DocSplit: A Benchmark for Document Packet Recognition and Splitting"](https://arxiv.org/abs/2602.15958) [[Benchmark]](https://huggingface.co/datasets/amazon/doc_split), and ["IDP Accelerator: Agentic Document Intelligence"](https://arxiv.org/abs/2602.23481)
 * 2026: **"Energy-Based Transformers are Scalable Learners and Thinkers"** accepted as **Oral at ICLR-2026** [[ArXiv]](https://arxiv.org/abs/2406.08862)
 * 2026: **"Embodied Referring Expression Comprehension Through Multimodal Residual Learning"** accepted at **HRI-2026** [[ArXiv]](https://arxiv.org/abs/2512.06558)
